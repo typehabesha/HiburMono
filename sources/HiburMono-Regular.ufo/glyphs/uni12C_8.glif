@@ -2,6 +2,7 @@
 <glyph name="uni12C8" format="2">
   <advance width="600"/>
   <unicode hex="12C8"/>
+  <anchor x="299" y="800" name="top"/>
   <outline>
     <contour>
       <point x="253" y="187" type="line"/>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="thee-ethi" format="2">
+<glyph name="uni1324" format="2">
   <advance width="600"/>
   <unicode hex="1324"/>
+  <anchor x="226" y="800" name="top"/>
   <outline>
     <contour>
       <point x="205" y="714" type="curve" smooth="yes"/>

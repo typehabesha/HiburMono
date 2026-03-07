@@ -231,7 +231,7 @@
     <string>uni120B</string>
     <string>uni120C</string>
     <string>uni120D</string>
-    <string>lo-ethi</string>
+    <string>uni120E</string>
     <string>uni120F</string>
     <string>uni1210</string>
     <string>uni1211</string>
@@ -488,10 +488,10 @@
     <string>uni1321</string>
     <string>uni1322</string>
     <string>uni1323</string>
-    <string>thee-ethi</string>
-    <string>the-ethi</string>
-    <string>tho-ethi</string>
-    <string>thwa-ethi</string>
+    <string>uni1324</string>
+    <string>uni1325</string>
+    <string>uni1326</string>
+    <string>uni1327</string>
     <string>uni1328</string>
     <string>uni1329</string>
     <string>uni132A</string>
@@ -631,6 +631,7 @@
     <string>uni12C6</string>
     <string>uni1317</string>
     <string>uni12D7</string>
+    <string>uni00A0</string>
   </array>
 </dict>
 </plist>

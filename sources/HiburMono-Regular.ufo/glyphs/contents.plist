@@ -296,8 +296,6 @@
   <string>l.glif</string>
   <key>less</key>
   <string>less.glif</string>
-  <key>lo-ethi</key>
-  <string>lo-ethi.glif</string>
   <key>logicalnot</key>
   <string>logicalnot.glif</string>
   <key>lslash</key>
@@ -416,12 +414,6 @@
   <string>sterling.glif</string>
   <key>t</key>
   <string>t.glif</string>
-  <key>the-ethi</key>
-  <string>the-ethi.glif</string>
-  <key>thee-ethi</key>
-  <string>thee-ethi.glif</string>
-  <key>tho-ethi</key>
-  <string>tho-ethi.glif</string>
   <key>thorn</key>
   <string>thorn.glif</string>
   <key>three</key>
@@ -430,8 +422,6 @@
   <string>threequarters.glif</string>
   <key>threesuperior</key>
   <string>threesuperior.glif</string>
-  <key>thwa-ethi</key>
-  <string>thwa-ethi.glif</string>
   <key>tilde</key>
   <string>tilde.glif</string>
   <key>trademark</key>
@@ -468,6 +458,8 @@
   <string>underscore.glif</string>
   <key>uni000D</key>
   <string>uni000D_.glif</string>
+  <key>uni00A0</key>
+  <string>uni00A_0.glif</string>
   <key>uni03BC</key>
   <string>uni03B_C_.glif</string>
   <key>uni1200</key>
@@ -498,6 +490,8 @@
   <string>uni120C_.glif</string>
   <key>uni120D</key>
   <string>uni120D_.glif</string>
+  <key>uni120E</key>
+  <string>uni120E_.glif</string>
   <key>uni120F</key>
   <string>uni120F_.glif</string>
   <key>uni1210</key>
@@ -1052,6 +1046,14 @@
   <string>uni1322.glif</string>
   <key>uni1323</key>
   <string>uni1323.glif</string>
+  <key>uni1324</key>
+  <string>uni1324.glif</string>
+  <key>uni1325</key>
+  <string>uni1325.glif</string>
+  <key>uni1326</key>
+  <string>uni1326.glif</string>
+  <key>uni1327</key>
+  <string>uni1327.glif</string>
   <key>uni1328</key>
   <string>uni1328.glif</string>
   <key>uni1329</key>

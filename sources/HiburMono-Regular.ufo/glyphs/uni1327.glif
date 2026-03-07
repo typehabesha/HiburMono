@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="thwa-ethi" format="2">
+<glyph name="uni1327" format="2">
   <advance width="600"/>
   <unicode hex="1327"/>
+  <anchor x="270" y="800" name="top"/>
   <outline>
     <contour>
       <point x="585" y="0" type="line"/>
