@@ -21,6 +21,7 @@ build.ninja
 .Trashes
 ehthumbs.db
 Thumbs.db
+*.backup
 
 # Autosaved by application when editing
 ######################

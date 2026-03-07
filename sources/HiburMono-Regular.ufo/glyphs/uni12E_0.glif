@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni12E0" format="2">
+  <advance width="600"/>
+  <unicode hex="12E0"/>
+  <outline>
+    <contour>
+      <point x="137" y="714" type="line"/>
+      <point x="227" y="714" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="360" type="line"/>
+      <point x="151" y="437" type="line"/>
+      <point x="463" y="437" type="line"/>
+      <point x="463" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="637" type="line"/>
+      <point x="35" y="714" type="line"/>
+      <point x="178" y="714" type="line"/>
+      <point x="178" y="637" type="line"/>
+    </contour>
+    <contour>
+      <point x="463" y="714" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="373" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="565" y="637" type="line"/>
+      <point x="422" y="637" type="line"/>
+      <point x="422" y="714" type="line"/>
+      <point x="565" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="600" type="move"/>
+      <point x="300" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>
