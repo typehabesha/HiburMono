@@ -49,8 +49,8 @@ buildOTF: true
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
 # reverseOutlineDirection: true
-# removeOutlineOverlaps: true
-# extraFontmakeArgs: ""
+removeOutlineOverlaps: false
+extraFontmakeArgs: "--overlaps-backend pathops"
 # extraVariableFontmakeArgs: ""
 # extraStaticFontmakeArgs: ""
 # glyphData: GlyphData.xml
