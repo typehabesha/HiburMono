@@ -96,7 +96,7 @@ feature mark {
           <anchor 251 800> mark @top;
       pos base uni120D
           <anchor 299 800> mark @top;
-      pos base lo-ethi
+      pos base uni120E
           <anchor 251 800> mark @top;
       pos base uni120F
           <anchor 269 800> mark @top;
@@ -610,13 +610,13 @@ feature mark {
           <anchor 270 800> mark @top;
       pos base uni1323
           <anchor 300 800> mark @top;
-      pos base thee-ethi
+      pos base uni1324
           <anchor 226 800> mark @top;
-      pos base the-ethi
+      pos base uni1325
           <anchor 302 800> mark @top;
-      pos base tho-ethi
+      pos base uni1326
           <anchor 300 800> mark @top;
-      pos base thwa-ethi
+      pos base uni1327
           <anchor 270 800> mark @top;
       pos base uni1328
           <anchor 300 800> mark @top;
