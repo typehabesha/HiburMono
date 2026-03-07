@@ -12,10 +12,10 @@ from urllib.parse import quote
 import subprocess
 import requests
 
-BASE_OWNER = "typehabesha"
-BASE_REPONAME = "HiburMono"
+BASE_OWNER = "googlefonts"
+BASE_REPONAME = "googlefonts-project-template"
 DUMMY_URL = "https://typehabesha.github.io/HiburMono"
-LATEST_OFL = "https://raw.githubusercontent.com/typehabesha/HiburMono/main/OFL.txt"
+LATEST_OFL = "https://raw.githubusercontent.com/googlefonts/googlefonts-project-template/main/OFL.txt"
 
 
 def repo_url(owner, name):
