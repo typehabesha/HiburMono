@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni128F" format="2">
-  <advance width="333"/>
+  <advance width="600"/>
   <unicode hex="128F"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.794,1</string>
+  </dict>
+  </lib>
 </glyph>
