@@ -436,6 +436,7 @@
           <Glyph value="u1E7E4"/>
           <Glyph value="u1E7E5"/>
           <Glyph value="u1E7E6"/>
+          <Glyph value="uni25CC"/>
         </BaseCoverage>
         <!-- ClassCount=1 -->
         <MarkArray>
@@ -463,7 +464,7 @@
           </MarkRecord>
         </MarkArray>
         <BaseArray>
-          <!-- BaseCount=337 -->
+          <!-- BaseCount=338 -->
           <BaseRecord index="0">
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="300"/>
@@ -2484,6 +2485,12 @@
             <BaseAnchor index="0" Format="1">
               <XCoordinate value="298"/>
               <YCoordinate value="800"/>
+            </BaseAnchor>
+          </BaseRecord>
+          <BaseRecord index="337">
+            <BaseAnchor index="0" Format="1">
+              <XCoordinate value="300"/>
+              <YCoordinate value="582"/>
             </BaseAnchor>
           </BaseRecord>
         </BaseArray>

@@ -68,6 +68,8 @@ feature mark {
     markClass uni135F <anchor 295 786> @top;
 
   lookup markLTR {
+      pos base uni25CC
+          <anchor 300 582> mark @top;
       pos base uni1200
           <anchor 300 800> mark @top;
       pos base uni1201
