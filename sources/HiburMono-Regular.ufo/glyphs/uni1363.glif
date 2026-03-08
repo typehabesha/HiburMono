@@ -5,37 +5,37 @@
   <outline>
     <contour>
       <point x="301" y="179" type="curve" smooth="yes"/>
-      <point x="344" y="179"/>
-      <point x="363" y="207"/>
-      <point x="363" y="248" type="curve" smooth="yes"/>
-      <point x="363" y="289"/>
-      <point x="344" y="315"/>
-      <point x="301" y="315" type="curve" smooth="yes"/>
-      <point x="258" y="315"/>
-      <point x="239" y="289"/>
-      <point x="239" y="248" type="curve" smooth="yes"/>
-      <point x="239" y="207"/>
       <point x="258" y="179"/>
+      <point x="239" y="207"/>
+      <point x="239" y="248" type="curve" smooth="yes"/>
+      <point x="239" y="289"/>
+      <point x="258" y="315"/>
+      <point x="301" y="315" type="curve" smooth="yes"/>
+      <point x="344" y="315"/>
+      <point x="363" y="289"/>
+      <point x="363" y="248" type="curve" smooth="yes"/>
+      <point x="363" y="207"/>
+      <point x="344" y="179"/>
     </contour>
     <contour>
       <point x="301" y="415" type="curve" smooth="yes"/>
-      <point x="344" y="415"/>
-      <point x="363" y="443"/>
-      <point x="363" y="484" type="curve" smooth="yes"/>
-      <point x="363" y="525"/>
-      <point x="344" y="551"/>
-      <point x="301" y="551" type="curve" smooth="yes"/>
-      <point x="258" y="551"/>
-      <point x="239" y="525"/>
-      <point x="239" y="484" type="curve" smooth="yes"/>
-      <point x="239" y="443"/>
       <point x="258" y="415"/>
+      <point x="239" y="443"/>
+      <point x="239" y="484" type="curve" smooth="yes"/>
+      <point x="239" y="525"/>
+      <point x="258" y="551"/>
+      <point x="301" y="551" type="curve" smooth="yes"/>
+      <point x="344" y="551"/>
+      <point x="363" y="525"/>
+      <point x="363" y="484" type="curve" smooth="yes"/>
+      <point x="363" y="443"/>
+      <point x="344" y="415"/>
     </contour>
     <contour>
+      <point x="530" y="637" type="line"/>
       <point x="70" y="637" type="line"/>
       <point x="70" y="714" type="line"/>
       <point x="530" y="714" type="line"/>
-      <point x="530" y="637" type="line"/>
     </contour>
   </outline>
 </glyph>
