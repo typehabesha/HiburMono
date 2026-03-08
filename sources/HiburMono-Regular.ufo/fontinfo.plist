@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>700</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2025-2026 by TypeHabesha.</string>
+  <string>Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono)</string>
   <key>descender</key>
   <integer>-300</integer>
   <key>familyName</key>
@@ -159,7 +159,7 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <integer>600</integer>
   <key>openTypeOS2Type</key>
   <array>
-    <integer>2</integer>
+    <integer>0</integer>
   </array>
   <key>openTypeOS2TypoAscender</key>
   <integer>800</integer>

@@ -632,6 +632,9 @@
     <string>uni1317</string>
     <string>uni12D7</string>
     <string>uni00A0</string>
+    <string>lineseparator</string>
+    <string>paragraphseparator</string>
+    <string>uni25CC</string>
   </array>
 </dict>
 </plist>
