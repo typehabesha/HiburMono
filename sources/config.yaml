@@ -48,7 +48,7 @@ buildOTF: true
 # checkCompatibility: true
 # overlaps: booleanOperations
 # expandFeaturesToInstances: false
-# reverseOutlineDirection: true
+reverseOutlineDirection: false
 removeOutlineOverlaps: false
 extraFontmakeArgs: "--overlaps-backend pathops"
 # extraVariableFontmakeArgs: ""
