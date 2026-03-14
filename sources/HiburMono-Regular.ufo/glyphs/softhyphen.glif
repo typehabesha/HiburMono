@@ -3,12 +3,6 @@
   <advance width="600"/>
   <unicode hex="00AD"/>
   <outline>
-    <component base="minus"/>
+    <component base="hyphen"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>minus%</string>
-  </dict>
-  </lib>
 </glyph>

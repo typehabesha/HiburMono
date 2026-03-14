@@ -12,10 +12,16 @@ fonts {
   full_name: "Hibur Mono Regular"
   copyright: "Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono)"
 }
+subsets: "adlam"
+subsets: "cherokee"
 subsets: "ethiopic"
+subsets: "greek"
 subsets: "latin"
 subsets: "latin-ext"
+subsets: "math"
 subsets: "menu"
+subsets: "tifinagh"
+subsets: "yi"
 soruce {
   repository_url: "https://github.com/typehabesha/HiburMono"
   commit: "0e509f0477588bc763f027a104828ea9c20de0e9"
