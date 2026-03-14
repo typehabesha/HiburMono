@@ -2,14 +2,10 @@
 <glyph name="obreve" format="2">
   <advance width="600"/>
   <unicode hex="014F"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="740" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="breve" xOffset="-1"/>
+    <component base="brevecomb" xOffset="300"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>o+breve</string>
-  </dict>
-  </lib>
 </glyph>

@@ -2,8 +2,10 @@
 <glyph name="zcaron" format="2">
   <advance width="600"/>
   <unicode hex="017E"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="310" y="766" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="caron" xOffset="10"/>
+    <component base="caroncomb" xOffset="310"/>
   </outline>
 </glyph>

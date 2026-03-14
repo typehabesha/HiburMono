@@ -2,14 +2,10 @@
 <glyph name="gdotaccent" format="2">
   <advance width="600"/>
   <unicode hex="0121"/>
+  <anchor x="300" y="-245" name="bottom"/>
+  <anchor x="300" y="737" name="top"/>
   <outline>
     <component base="g"/>
-    <component base="dotaccent"/>
+    <component base="dotaccentcomb" xOffset="300"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>g+dotaccent</string>
-  </dict>
-  </lib>
 </glyph>

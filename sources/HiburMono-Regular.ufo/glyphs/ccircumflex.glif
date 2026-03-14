@@ -2,14 +2,10 @@
 <glyph name="ccircumflex" format="2">
   <advance width="600"/>
   <unicode hex="0109"/>
+  <anchor x="360" y="0" name="bottom"/>
+  <anchor x="331" y="764" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="circumflex"/>
+    <component base="circumflexcomb" xOffset="328"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>c+circumflex</string>
-  </dict>
-  </lib>
 </glyph>

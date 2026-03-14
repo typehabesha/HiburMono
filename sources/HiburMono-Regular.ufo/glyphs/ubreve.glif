@@ -2,14 +2,10 @@
 <glyph name="ubreve" format="2">
   <advance width="600"/>
   <unicode hex="016D"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="740" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="breve" xOffset="-1"/>
+    <component base="brevecomb" xOffset="300"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>u+breve</string>
-  </dict>
-  </lib>
 </glyph>

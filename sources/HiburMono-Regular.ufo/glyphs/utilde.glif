@@ -2,14 +2,10 @@
 <glyph name="utilde" format="2">
   <advance width="600"/>
   <unicode hex="0169"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="735" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="tilde"/>
+    <component base="tildecomb" xOffset="300"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>u+tilde</string>
-  </dict>
-  </lib>
 </glyph>

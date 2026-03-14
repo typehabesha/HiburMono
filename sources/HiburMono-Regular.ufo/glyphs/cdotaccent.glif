@@ -2,14 +2,10 @@
 <glyph name="cdotaccent" format="2">
   <advance width="600"/>
   <unicode hex="010B"/>
+  <anchor x="341" y="0" name="bottom"/>
+  <anchor x="328" y="737" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="dotaccent"/>
+    <component base="dotaccentcomb" xOffset="328"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>c+dotaccent</string>
-  </dict>
-  </lib>
 </glyph>

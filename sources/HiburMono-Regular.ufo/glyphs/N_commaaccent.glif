@@ -2,13 +2,9 @@
 <glyph name="Ncommaaccent" format="2">
   <advance width="600"/>
   <unicode hex="0145"/>
+  <anchor x="284" y="-221" name="bottom"/>
+  <anchor x="318" y="714" name="top"/>
   <outline>
     <component base="N"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>N+uni0327</string>
-  </dict>
-  </lib>
 </glyph>

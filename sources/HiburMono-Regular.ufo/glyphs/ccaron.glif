@@ -2,14 +2,10 @@
 <glyph name="ccaron" format="2">
   <advance width="600"/>
   <unicode hex="010D"/>
+  <anchor x="321" y="0" name="bottom"/>
+  <anchor x="329" y="766" name="top"/>
   <outline>
     <component base="c"/>
-    <component base="caron"/>
+    <component base="caroncomb" xOffset="328"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>c+caron</string>
-  </dict>
-  </lib>
 </glyph>

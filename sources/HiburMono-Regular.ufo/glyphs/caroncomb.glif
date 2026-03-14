@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb" format="2">
-  <advance width="600"/>
   <unicode hex="030C"/>
+  <anchor x="0" y="536" name="_top"/>
+  <anchor x="0" y="766" name="top"/>
   <outline>
-    <component base="caron"/>
+    <component base="caron" xOffset="-300"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>caron%</string>
-  </dict>
-  </lib>
 </glyph>

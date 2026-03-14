@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb" format="2">
-  <advance width="600"/>
   <unicode hex="0303"/>
+  <anchor x="0" y="536" name="_top"/>
+  <anchor x="0" y="735" name="top"/>
   <outline>
-    <component base="tilde"/>
+    <component base="tilde" xOffset="-300"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>tilde%</string>
-  </dict>
-  </lib>
 </glyph>

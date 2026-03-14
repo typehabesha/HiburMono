@@ -2,14 +2,10 @@
 <glyph name="Gbreve" format="2">
   <advance width="600"/>
   <unicode hex="011E"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="321" y="918" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="breve" xOffset="-1" yOffset="200"/>
+    <component base="brevecomb" xOffset="322" yOffset="178"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>G+breve</string>
-  </dict>
-  </lib>
 </glyph>

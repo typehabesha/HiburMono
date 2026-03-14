@@ -2,14 +2,10 @@
 <glyph name="emacron" format="2">
   <advance width="600"/>
   <unicode hex="0113"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="306" y="689" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="macron" xOffset="-1"/>
+    <component base="macroncomb" xOffset="304"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>e+macron</string>
-  </dict>
-  </lib>
 </glyph>

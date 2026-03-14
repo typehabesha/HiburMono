@@ -2,13 +2,11 @@
 <glyph name="Eogonek" format="2">
   <advance width="600"/>
   <unicode hex="0118"/>
+  <anchor x="325" y="-220" name="bottom"/>
+  <anchor x="310" y="714" name="top"/>
+  <anchor x="20" y="714" name="topleft"/>
   <outline>
     <component base="E"/>
+    <component base="ogonek" xOffset="100"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>E+uni0328</string>
-  </dict>
-  </lib>
 </glyph>

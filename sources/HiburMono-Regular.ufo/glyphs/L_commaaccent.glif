@@ -2,13 +2,10 @@
 <glyph name="Lcommaaccent" format="2">
   <advance width="600"/>
   <unicode hex="013B"/>
+  <anchor x="300" y="-221" name="bottom"/>
+  <anchor x="159" y="714" name="top"/>
   <outline>
     <component base="L"/>
+    <component base="commaaccent" xOffset="330"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>L+uni0327</string>
-  </dict>
-  </lib>
 </glyph>

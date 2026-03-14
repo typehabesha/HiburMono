@@ -2,13 +2,10 @@
 <glyph name="tcedilla" format="2">
   <advance width="600"/>
   <unicode hex="0163"/>
+  <anchor x="357" y="-240" name="bottom"/>
+  <anchor x="258" y="679" name="top"/>
   <outline>
     <component base="t"/>
+    <component base="cedillacomb" xOffset="374"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>t+uni0327</string>
-  </dict>
-  </lib>
 </glyph>

@@ -2,13 +2,9 @@
 <glyph name="rcommaaccent" format="2">
   <advance width="600"/>
   <unicode hex="0157"/>
+  <anchor x="270" y="-221" name="bottom"/>
+  <anchor x="300" y="536" name="top"/>
   <outline>
     <component base="r"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>r+uni0327</string>
-  </dict>
-  </lib>
 </glyph>

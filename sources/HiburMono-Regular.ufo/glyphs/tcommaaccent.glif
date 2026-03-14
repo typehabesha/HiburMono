@@ -2,13 +2,10 @@
 <glyph name="tcommaaccent" format="2">
   <advance width="600"/>
   <unicode hex="021B"/>
+  <anchor x="300" y="-221" name="bottom"/>
+  <anchor x="300" y="679" name="top"/>
   <outline>
     <component base="t"/>
+    <component base="commaaccent" xOffset="374"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>t+uni0326</string>
-  </dict>
-  </lib>
 </glyph>

@@ -2,14 +2,23 @@
 <glyph name="Tbar" format="2">
   <advance width="600"/>
   <unicode hex="0166"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="714" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="macron" xOffset="-1" yOffset="200"/>
+    <contour>
+      <point x="494" y="325" type="line"/>
+      <point x="494" y="399" type="line"/>
+      <point x="107" y="399" type="line"/>
+      <point x="107" y="325" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>T+macron</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>T</string>
   </dict>
   </lib>
 </glyph>

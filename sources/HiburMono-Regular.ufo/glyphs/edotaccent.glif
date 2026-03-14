@@ -2,14 +2,10 @@
 <glyph name="edotaccent" format="2">
   <advance width="600"/>
   <unicode hex="0117"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="305" y="737" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="dotaccent"/>
+    <component base="dotaccentcomb" xOffset="304"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>e+dotaccent</string>
-  </dict>
-  </lib>
 </glyph>

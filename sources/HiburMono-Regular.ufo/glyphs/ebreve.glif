@@ -2,14 +2,10 @@
 <glyph name="ebreve" format="2">
   <advance width="600"/>
   <unicode hex="0115"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="304" y="740" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="breve" xOffset="-1"/>
+    <component base="brevecomb" xOffset="304"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>e+breve</string>
-  </dict>
-  </lib>
 </glyph>

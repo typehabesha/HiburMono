@@ -2,14 +2,10 @@
 <glyph name="Cacute" format="2">
   <advance width="600"/>
   <unicode hex="0106"/>
+  <anchor x="358" y="0" name="bottom"/>
+  <anchor x="366" y="944" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="acute" xOffset="-47" yOffset="200"/>
+    <component base="acutecomb" xOffset="359" yOffset="178"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>C+acute</string>
-  </dict>
-  </lib>
 </glyph>

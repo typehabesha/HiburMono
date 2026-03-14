@@ -2,14 +2,16 @@
 <glyph name="Lcaron" format="2">
   <advance width="600"/>
   <unicode hex="013D"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="159" y="714" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="quoteright" xOffset="11" yOffset="200"/>
+    <component base="caroncommaaccent" xOffset="144"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>L+quoteright</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>L</string>
   </dict>
   </lib>
 </glyph>

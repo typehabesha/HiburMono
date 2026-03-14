@@ -2,14 +2,10 @@
 <glyph name="aogonek" format="2">
   <advance width="600"/>
   <unicode hex="0105"/>
+  <anchor x="300" y="-220" name="bottom"/>
+  <anchor x="300" y="536" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="ogonek" xOffset="124"/>
+    <component base="ogonek" xOffset="143"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>a+>~ogonek</string>
-  </dict>
-  </lib>
 </glyph>

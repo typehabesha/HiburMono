@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcomb" format="2">
-  <advance width="600"/>
   <unicode hex="030A"/>
+  <anchor x="0" y="536" name="_top"/>
+  <anchor x="0" y="817" name="top"/>
   <outline>
-    <component base="ring"/>
+    <component base="ring" xOffset="-300"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>ring%</string>
-  </dict>
-  </lib>
 </glyph>

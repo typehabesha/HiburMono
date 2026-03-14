@@ -2,14 +2,10 @@
 <glyph name="scedilla" format="2">
   <advance width="600"/>
   <unicode hex="015F"/>
+  <anchor x="300" y="-240" name="bottom"/>
+  <anchor x="300" y="536" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="cedilla" xOffset="2"/>
+    <component base="cedillacomb" xOffset="305"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>s+cedilla</string>
-  </dict>
-  </lib>
 </glyph>

@@ -2,14 +2,10 @@
 <glyph name="sacute" format="2">
   <advance width="600"/>
   <unicode hex="015B"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="766" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="acute" xOffset="-47"/>
+    <component base="acutecomb" xOffset="305"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>s+acute</string>
-  </dict>
-  </lib>
 </glyph>
