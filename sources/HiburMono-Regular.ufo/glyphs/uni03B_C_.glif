@@ -8,9 +8,9 @@
     <component base="u"/>
     <contour>
       <point x="165" y="-240" type="line"/>
-      <point x="165" y="268" type="line"/>
-      <point x="75" y="268" type="line"/>
       <point x="75" y="-240" type="line"/>
+      <point x="75" y="268" type="line"/>
+      <point x="165" y="268" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -42,10 +42,4 @@
       <point x="520" y="537" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>note</key>
-  <string>From: Noto Sans Malayalam</string>
-  </dict>
-  </lib>
 </glyph>
