@@ -14,6 +14,7 @@ fonts {
 }
 subsets: "ethiopic"
 subsets: "latin"
+subsets: "latin-ext"
 subsets: "menu"
 soruce {
   repository_url: "https://github.com/typehabesha/HiburMono"
