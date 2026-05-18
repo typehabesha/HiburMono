@@ -1,3 +1,9 @@
+#> classes
+#/> otclasses
+@latn_CombiningNonTopAccents = [cedillacomb ogonekcomb];
+#/< otclasses
+#< classes
+
 #/> classes
 #/> otclasses
 @ordn = [zero one two three four five six seven eight nine];
@@ -64,12 +70,12 @@ feature sups {
 } sups;
 feature ccmp {
 
-# lookup latnSoftDot {
+lookup latnSoftDot {
 # @CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb ];
 # @CombiningNonTopAccents = [cedillacomb ogonekcomb ];
-#	sub [i j ]' @CombiningTopAccents by [idotless jdotless];
-#	sub [i j ]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-# } latnSoftDot;
+	sub [i j iogonek]' @latn_CombiningTopAccents by [idotless jdotless iogonekdotless];
+	sub [i j iogonek]' @latn_CombiningNonTopAccents @latn_CombiningTopAccents by [idotless jdotless iogonekdotless];
+} latnSoftDot;
 #> feature
 #< feature
 
@@ -77,6 +83,7 @@ lookup ccmp_latn_decomposeLowercaseIJ {
 	sub i' @latn_CombiningTopAccents by idotless;
 	sub j' @latn_CombiningTopAccents by jdotless;
 } ccmp_latn_decomposeLowercaseIJ;
+
 
 } ccmp;
 feature mark {

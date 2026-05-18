@@ -11,7 +11,7 @@
       <point x="100" y="104" type="line"/>
       <point x="123" y="94"/>
       <point x="205" y="73"/>
-      <point x="245" y="73" type="qcurve" smooth="yes"/>
+      <point x="242.412" y="73" type="qcurve" smooth="yes"/>
       <point x="285" y="73"/>
       <point x="343" y="104"/>
       <point x="375" y="172"/>
