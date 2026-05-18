@@ -2,18 +2,30 @@
 <glyph name="l" format="2">
   <advance width="600"/>
   <unicode hex="006C"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="322" y="387" name="center"/>
+  <anchor x="300" y="760" name="top"/>
+  <anchor x="493" y="760" name="topright"/>
   <outline>
     <contour>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="60" type="line"/>
-      <point x="276" y="75" type="line"/>
-      <point x="276" y="685" type="line"/>
-      <point x="86" y="698" type="line"/>
-      <point x="86" y="760" type="line"/>
-      <point x="366" y="760" type="line"/>
-      <point x="366" y="75" type="line"/>
-      <point x="540" y="60" type="line"/>
       <point x="540" y="0" type="line"/>
+      <point x="540" y="60" type="line"/>
+      <point x="366" y="75" type="line"/>
+      <point x="366" y="760" type="line"/>
+      <point x="86" y="760" type="line"/>
+      <point x="86" y="698" type="line"/>
+      <point x="276" y="685" type="line"/>
+      <point x="276" y="75" type="line"/>
+      <point x="80" y="60" type="line"/>
+      <point x="80" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>i</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>i</string>
+  </dict>
+  </lib>
 </glyph>
