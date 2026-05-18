@@ -55,7 +55,7 @@
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDescription</key>
-  <string>Hibur Mono is a project intended to create a monospaced styled Ethiopic supporting font, which specially will be useful in coding, and related usage in terminals. The Latin and other non-Ethiopic glyphs come from the Regular master of Noto Sans Mono typeface v2.6.</string>
+  <string>Hibur Mono is a monospaced styled Ethiopic supporting font targetting application in terminals and programming tools. The non-Ethiopic glyphs come from the Regular master of Noto Sans Mono v2.6.</string>
   <key>openTypeNameDesigner</key>
   <string>Behailu Berento</string>
   <key>openTypeNameDesignerURL</key>

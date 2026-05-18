@@ -2,7 +2,6 @@
 <glyph name="uni125D" format="2">
   <advance width="600"/>
   <unicode hex="125D"/>
-  <anchor x="300" y="800" name="top"/>
   <outline>
     <contour>
       <point x="475" y="69" type="line"/>
@@ -15,12 +14,6 @@
       <point x="549" y="48" type="line"/>
       <point x="549" y="125" type="line"/>
       <point x="284" y="125" type="line"/>
-    </contour>
-    <contour>
-      <point x="325" y="271" type="move"/>
-      <point x="325" y="0" type="line"/>
-      <point x="235" y="0" type="line"/>
-      <point x="235" y="271" type="line"/>
     </contour>
     <contour>
       <point x="510" y="376" type="curve" smooth="yes"/>

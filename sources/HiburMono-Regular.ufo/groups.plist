@@ -2,6 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>latn_CombiningTopAccents</key>
+  <array>
+    <string>dieresiscomb</string>
+    <string>dotaccentcomb</string>
+    <string>gravecomb</string>
+    <string>acutecomb</string>
+    <string>hungarumlautcomb</string>
+    <string>circumflexcomb</string>
+    <string>caroncomb</string>
+    <string>brevecomb</string>
+    <string>ringcomb</string>
+    <string>tildecomb</string>
+    <string>macroncomb</string>
+  </array>
   <key>ordn</key>
   <array>
     <string>zero</string>
