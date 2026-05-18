@@ -2,6 +2,10 @@
 <glyph name="dcaron" format="2">
   <advance width="600"/>
   <unicode hex="010F"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="261" y="268" name="center"/>
+  <anchor x="327" y="760" name="top"/>
+  <anchor x="580" y="760" name="topright"/>
   <outline>
     <contour>
       <point x="245" y="-10" type="curve" smooth="yes"/>

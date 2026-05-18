@@ -2,6 +2,9 @@
 <glyph name="idotless" format="2">
   <advance width="600"/>
   <unicode hex="0131"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="320" y="283" name="center"/>
+  <anchor x="300" y="536" name="top"/>
   <outline>
     <contour>
       <point x="540" y="0" type="line"/>

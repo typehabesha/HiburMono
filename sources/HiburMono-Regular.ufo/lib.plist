@@ -2,6 +2,46 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>public.openTypeMeta</key>
+  <dict>
+    <key>dlng</key>
+    <array>
+      <string>de</string>
+      <string>en</string>
+      <string>fr</string>
+      <string>am</string>
+      <string>agj</string>
+      <string>awn</string>
+      <string>bst</string>
+      <string>byn</string>
+      <string>mdx</string>
+      <string>drs</string>
+      <string>gez</string>
+      <string>amf_Ethi</string>
+      <string>har</string>
+      <string>ior</string>
+      <string>ktb</string>
+      <string>gru</string>
+      <string>kxc_Ethi</string>
+      <string>mvz</string>
+      <string>ahg</string>
+      <string>sgw</string>
+      <string>sid_Ethi</string>
+      <string>stv</string>
+      <string>tig</string>
+      <string>ti</string>
+      <string>xan</string>
+      <string>jnj_Ethi</string>
+      <string>zwa</string>
+    </array>
+    <key>slng</key>
+    <array>
+      <string>cyrl</string>
+      <string>latn</string>
+      <string>ethi</string>
+      <string>grek</string>
+    </array>
+  </dict>
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
