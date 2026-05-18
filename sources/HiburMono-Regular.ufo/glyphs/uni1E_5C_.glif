@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E5C" format="2">
+  <advance width="600"/>
+  <unicode hex="1E5C"/>
+  <anchor x="330" y="-180" name="bottom"/>
+  <anchor x="300" y="867" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="dotbelowcomb" xOffset="330"/>
+    <component base="macroncomb" xOffset="300" yOffset="178"/>
+  </outline>
+</glyph>

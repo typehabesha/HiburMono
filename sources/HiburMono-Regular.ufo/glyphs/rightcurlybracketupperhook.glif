@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightcurlybracketupperhook" format="2">
+  <advance width="600"/>
+  <unicode hex="23AB"/>
+  <outline>
+    <contour>
+      <point x="257" y="-240" type="line"/>
+      <point x="342" y="-240" type="line"/>
+      <point x="342" y="540" type="line" smooth="yes"/>
+      <point x="342" y="657"/>
+      <point x="285" y="714"/>
+      <point x="168" y="714" type="curve"/>
+      <point x="168" y="641" type="line"/>
+      <point x="233" y="641"/>
+      <point x="257" y="609"/>
+      <point x="257" y="533" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

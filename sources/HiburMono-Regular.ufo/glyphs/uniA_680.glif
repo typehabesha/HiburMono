@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA680" format="2">
+  <advance width="600"/>
+  <unicode hex="A680"/>
+  <outline>
+    <component base="afii10021" xOffset="5"/>
+    <contour>
+      <point x="305" y="646" type="line"/>
+      <point x="305" y="920" type="line"/>
+      <point x="221" y="920" type="line"/>
+      <point x="221" y="646" type="line"/>
+    </contour>
+  </outline>
+</glyph>

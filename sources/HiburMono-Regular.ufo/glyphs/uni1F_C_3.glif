@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FC3" format="2">
+  <advance width="600"/>
+  <unicode hex="1FC3"/>
+  <anchor x="300" y="-244" name="bottom"/>
+  <anchor x="300" y="546" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="ypogegrammenicomb" xOffset="127"/>
+  </outline>
+</glyph>

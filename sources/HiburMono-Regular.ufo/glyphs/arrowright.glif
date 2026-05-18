@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowright" format="2">
+  <advance width="600"/>
+  <unicode hex="2192"/>
+  <outline>
+    <contour>
+      <point x="404" y="49" type="line"/>
+      <point x="445" y="98"/>
+      <point x="489" y="134"/>
+      <point x="536" y="157" type="curve"/>
+      <point x="536" y="175" type="line"/>
+      <point x="489" y="198"/>
+      <point x="445" y="234"/>
+      <point x="404" y="283" type="curve"/>
+      <point x="369" y="283" type="line"/>
+      <point x="389" y="241"/>
+      <point x="408" y="209"/>
+      <point x="427" y="187" type="curve"/>
+      <point x="64" y="187" type="line"/>
+      <point x="64" y="145" type="line"/>
+      <point x="427" y="145" type="line"/>
+      <point x="408" y="123"/>
+      <point x="389" y="91"/>
+      <point x="369" y="49" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>arrowright</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

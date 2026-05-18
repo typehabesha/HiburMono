@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ZDoubleStruck" format="2">
+  <advance width="600"/>
+  <unicode hex="2124"/>
+  <outline>
+    <contour>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="53" type="line"/>
+      <point x="234" y="53" type="line"/>
+      <point x="560" y="661" type="line"/>
+      <point x="560" y="714" type="line"/>
+      <point x="72" y="714" type="line"/>
+      <point x="72" y="661" type="line"/>
+      <point x="373" y="661" type="line"/>
+      <point x="40" y="53" type="line"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="661" type="line"/>
+      <point x="502" y="661" type="line"/>
+      <point x="173" y="53" type="line"/>
+      <point x="100" y="53" type="line"/>
+    </contour>
+  </outline>
+</glyph>

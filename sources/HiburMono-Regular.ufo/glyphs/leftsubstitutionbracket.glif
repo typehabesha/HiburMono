@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftsubstitutionbracket" format="2">
+  <advance width="600"/>
+  <unicode hex="2E02"/>
+  <outline>
+    <contour>
+      <point x="231" y="276" type="line"/>
+      <point x="231" y="561" type="line"/>
+      <point x="422" y="668" type="line"/>
+      <point x="396" y="714" type="line"/>
+      <point x="178" y="590" type="line"/>
+      <point x="178" y="276" type="line"/>
+    </contour>
+  </outline>
+</glyph>

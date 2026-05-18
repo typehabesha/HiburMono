@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FEA" format="2">
+  <advance width="600"/>
+  <unicode hex="1FEA"/>
+  <anchor x="360" y="0" name="bottom"/>
+  <anchor x="360" y="714" name="top"/>
+  <outline>
+    <component base="uni1FEF" xOffset="-225" yOffset="-50"/>
+    <contour>
+      <point x="403" y="0" type="line"/>
+      <point x="403" y="278" type="line"/>
+      <point x="585" y="714" type="line"/>
+      <point x="489" y="714" type="line"/>
+      <point x="361" y="363" type="line"/>
+      <point x="234" y="714" type="line"/>
+      <point x="135" y="714" type="line"/>
+      <point x="317" y="278" type="line"/>
+      <point x="317" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

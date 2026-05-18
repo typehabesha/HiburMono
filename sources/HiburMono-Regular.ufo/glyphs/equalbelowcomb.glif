@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equalbelowcomb" format="2">
+  <unicode hex="0347"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="0" y="-222" name="bottom"/>
+  <outline>
+    <component base="underscoredbl" xOffset="-300"/>
+  </outline>
+</glyph>

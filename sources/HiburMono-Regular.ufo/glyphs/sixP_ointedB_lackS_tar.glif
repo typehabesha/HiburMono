@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sixPointedBlackStar" format="2">
+  <advance width="1200"/>
+  <unicode hex="2736"/>
+  <outline>
+    <contour>
+      <point x="716" y="316" type="line"/>
+      <point x="944" y="504" type="line"/>
+      <point x="936" y="518" type="line"/>
+      <point x="658" y="416" type="line"/>
+      <point x="608" y="708" type="line"/>
+      <point x="592" y="708" type="line"/>
+      <point x="542" y="416" type="line"/>
+      <point x="264" y="518" type="line"/>
+      <point x="256" y="504" type="line"/>
+      <point x="484" y="316" type="line"/>
+      <point x="256" y="126" type="line"/>
+      <point x="264" y="112" type="line"/>
+      <point x="542" y="216" type="line"/>
+      <point x="592" y="-76" type="line"/>
+      <point x="608" y="-76" type="line"/>
+      <point x="658" y="216" type="line"/>
+      <point x="936" y="112" type="line"/>
+      <point x="944" y="126" type="line"/>
+    </contour>
+  </outline>
+</glyph>

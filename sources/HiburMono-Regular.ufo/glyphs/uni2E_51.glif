@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2E51" format="2">
+  <advance width="600"/>
+  <unicode hex="2E51"/>
+  <outline>
+    <contour>
+      <point x="409" y="361" type="line"/>
+      <point x="426" y="632" type="line"/>
+      <point x="342" y="632" type="line"/>
+      <point x="359" y="385" type="line"/>
+      <point x="112" y="402" type="line"/>
+      <point x="112" y="318" type="line"/>
+      <point x="359" y="335" type="line"/>
+      <point x="342" y="88" type="line"/>
+      <point x="426" y="88" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|uni2E50</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>uni2E50</string>
+  </dict>
+  </lib>
+</glyph>

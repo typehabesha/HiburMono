@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whiteParallelogram" format="2">
+  <advance width="1200"/>
+  <unicode hex="25B1"/>
+  <outline>
+    <contour>
+      <point x="1033" y="63" type="line"/>
+      <point x="1097" y="364" type="line"/>
+      <point x="167" y="364" type="line"/>
+      <point x="103" y="63" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="327" type="line"/>
+      <point x="1052" y="327" type="line"/>
+      <point x="1004" y="100" type="line"/>
+      <point x="148" y="100" type="line"/>
+    </contour>
+  </outline>
+</glyph>

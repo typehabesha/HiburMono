@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Turneda" format="2">
+  <advance width="600"/>
+  <unicode hex="2C6F"/>
+  <anchor x="300" y="-3" name="bottom"/>
+  <anchor x="300" y="714" name="top"/>
+  <anchor x="580" y="714" name="topright"/>
+  <outline>
+    <component base="A" xScale="-1" yScale="-1" xOffset="600" yOffset="714"/>
+  </outline>
+</glyph>

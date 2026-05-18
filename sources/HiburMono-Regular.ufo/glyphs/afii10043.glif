@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10043" format="2">
+  <advance width="600"/>
+  <unicode hex="0429"/>
+  <anchor x="300" y="-191" name="bottom"/>
+  <anchor x="300" y="714" name="top"/>
+  <outline>
+    <component base="afii10042"/>
+    <contour>
+      <point x="600" y="-191" type="line"/>
+      <point x="600" y="78" type="line"/>
+      <point x="480" y="78" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="516" y="-191" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>M</string>
+  </dict>
+  </lib>
+</glyph>

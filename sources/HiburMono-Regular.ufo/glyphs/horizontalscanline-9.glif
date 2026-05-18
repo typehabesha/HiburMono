@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horizontalscanline-9" format="2">
+  <advance width="600"/>
+  <unicode hex="23BD"/>
+  <outline>
+    <contour>
+      <point x="605" y="0" type="line"/>
+      <point x="605" y="71" type="line"/>
+      <point x="-5" y="71" type="line"/>
+      <point x="-5" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="APLdownvane" format="2">
+  <advance width="600"/>
+  <unicode hex="2356"/>
+  <outline>
+    <contour>
+      <point x="443" y="156" type="line"/>
+      <point x="336" y="139" type="line"/>
+      <point x="336" y="302" type="line"/>
+      <point x="585" y="302" type="line"/>
+      <point x="585" y="373" type="line"/>
+      <point x="336" y="373" type="line"/>
+      <point x="336" y="714" type="line"/>
+      <point x="265" y="714" type="line"/>
+      <point x="265" y="373" type="line"/>
+      <point x="15" y="373" type="line"/>
+      <point x="15" y="302" type="line"/>
+      <point x="265" y="302" type="line"/>
+      <point x="265" y="139" type="line"/>
+      <point x="159" y="156" type="line"/>
+      <point x="301" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

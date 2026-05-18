@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nAryCircledDotOperator" format="2">
+  <advance width="1200"/>
+  <unicode hex="2A00"/>
+  <outline>
+    <contour>
+      <point x="600" y="-18" type="curve" smooth="yes"/>
+      <point x="813" y="-18"/>
+      <point x="986" y="155"/>
+      <point x="986" y="368" type="curve" smooth="yes"/>
+      <point x="986" y="581"/>
+      <point x="813" y="754"/>
+      <point x="600" y="754" type="curve" smooth="yes"/>
+      <point x="387" y="754"/>
+      <point x="214" y="581"/>
+      <point x="214" y="368" type="curve" smooth="yes"/>
+      <point x="214" y="155"/>
+      <point x="387" y="-18"/>
+    </contour>
+    <contour>
+      <point x="600" y="54" type="curve" smooth="yes"/>
+      <point x="427" y="54"/>
+      <point x="286" y="195"/>
+      <point x="286" y="368" type="curve" smooth="yes"/>
+      <point x="286" y="541"/>
+      <point x="427" y="682"/>
+      <point x="600" y="682" type="curve" smooth="yes"/>
+      <point x="773" y="682"/>
+      <point x="914" y="541"/>
+      <point x="914" y="368" type="curve" smooth="yes"/>
+      <point x="914" y="195"/>
+      <point x="773" y="54"/>
+    </contour>
+    <contour>
+      <point x="600" y="290" type="curve" smooth="yes"/>
+      <point x="644" y="290"/>
+      <point x="678" y="324"/>
+      <point x="678" y="368" type="curve" smooth="yes"/>
+      <point x="678" y="412"/>
+      <point x="644" y="447"/>
+      <point x="600" y="447" type="curve" smooth="yes"/>
+      <point x="556" y="447"/>
+      <point x="522" y="412"/>
+      <point x="522" y="368" type="curve" smooth="yes"/>
+      <point x="522" y="324"/>
+      <point x="556" y="290"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA765" format="2">
+  <advance width="600"/>
+  <unicode hex="A765"/>
+  <outline>
+    <contour>
+      <point x="169" y="-240" type="line"/>
+      <point x="169" y="-11" type="line" smooth="yes"/>
+      <point x="169" y="15"/>
+      <point x="167" y="43"/>
+      <point x="163" y="69" type="curve"/>
+      <point x="169" y="69" type="line"/>
+      <point x="200" y="27"/>
+      <point x="250" y="-10"/>
+      <point x="329" y="-10" type="curve" smooth="yes"/>
+      <point x="460" y="-10"/>
+      <point x="545" y="86"/>
+      <point x="545" y="269" type="curve" smooth="yes"/>
+      <point x="545" y="451"/>
+      <point x="460" y="546"/>
+      <point x="329" y="546" type="curve" smooth="yes"/>
+      <point x="249" y="546"/>
+      <point x="200" y="515"/>
+      <point x="169" y="463" type="curve"/>
+      <point x="165" y="463" type="line"/>
+      <point x="168" y="492"/>
+      <point x="169" y="522"/>
+      <point x="169" y="551" type="curve" smooth="yes"/>
+      <point x="169" y="760" type="line"/>
+      <point x="80" y="760" type="line"/>
+      <point x="80" y="-240" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="63" type="curve" smooth="yes"/>
+      <point x="203" y="63"/>
+      <point x="169" y="142"/>
+      <point x="169" y="269" type="curve" smooth="yes"/>
+      <point x="169" y="289" type="line" smooth="yes"/>
+      <point x="169" y="408"/>
+      <point x="212" y="473"/>
+      <point x="309" y="473" type="curve" smooth="yes"/>
+      <point x="411" y="473"/>
+      <point x="453" y="408"/>
+      <point x="453" y="271" type="curve" smooth="yes"/>
+      <point x="453" y="131"/>
+      <point x="410" y="63"/>
+    </contour>
+    <contour>
+      <point x="357" y="649" type="line"/>
+      <point x="357" y="722" type="line"/>
+      <point x="10" y="529" type="line"/>
+      <point x="10" y="456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>thorn</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>thorn</string>
+  </dict>
+  </lib>
+</glyph>

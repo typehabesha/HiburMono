@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA66E" format="2">
+  <advance width="600"/>
+  <unicode hex="A66E"/>
+  <outline>
+    <component base="uniA668" xScale="0.444" yScale="0.444" xOffset="380" yOffset="136"/>
+    <component base="uniA668" xScale="0.444" yScale="0.444" xOffset="-48" yOffset="136"/>
+    <component base="uniA668" xScale="0.444" yScale="0.444" xOffset="274" yOffset="402"/>
+    <component base="uniA668" xScale="0.444" yScale="0.444" xOffset="163" yOffset="136"/>
+    <component base="uniA668" xScale="0.444" yScale="0.444" xOffset="56" yOffset="402"/>
+    <component base="uniA668" xScale="0.444" yScale="0.444" xOffset="274" yOffset="-131"/>
+    <component base="uniA668" xScale="0.444" yScale="0.444" xOffset="56" yOffset="-131"/>
+  </outline>
+</glyph>

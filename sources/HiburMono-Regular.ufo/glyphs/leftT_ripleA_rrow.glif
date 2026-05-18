@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftTripleArrow" format="2">
+  <advance width="1200"/>
+  <unicode hex="21DA"/>
+  <outline>
+    <contour>
+      <point x="509" y="-63" type="line"/>
+      <point x="500" y="-40"/>
+      <point x="484" y="-5"/>
+      <point x="461" y="39" type="curve"/>
+      <point x="896" y="39" type="line"/>
+      <point x="896" y="81" type="line"/>
+      <point x="438" y="81" type="line"/>
+      <point x="403" y="145" type="line"/>
+      <point x="896" y="145" type="line"/>
+      <point x="896" y="187" type="line"/>
+      <point x="403" y="187" type="line"/>
+      <point x="438" y="251" type="line"/>
+      <point x="896" y="251" type="line"/>
+      <point x="896" y="293" type="line"/>
+      <point x="461" y="293" type="line"/>
+      <point x="484" y="337"/>
+      <point x="500" y="372"/>
+      <point x="509" y="395" type="curve"/>
+      <point x="474" y="395" type="line"/>
+      <point x="437" y="346"/>
+      <point x="381" y="273"/>
+      <point x="304" y="175" type="curve"/>
+      <point x="304" y="157" type="line"/>
+      <point x="361" y="84"/>
+      <point x="417" y="10"/>
+      <point x="474" y="-63" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="checkerBoard" format="2">
+  <advance width="1200"/>
+  <unicode hex="1F67E"/>
+  <outline>
+    <contour>
+      <point x="1200" y="359" type="line"/>
+      <point x="1200" y="959" type="line"/>
+      <point x="600" y="959" type="line"/>
+      <point x="600" y="359" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="-241" type="line"/>
+      <point x="600" y="359" type="line"/>
+      <point x="0" y="359" type="line"/>
+      <point x="0" y="-241" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="APLdownshoestile" format="2">
+  <advance width="1200"/>
+  <unicode hex="2366"/>
+  <outline>
+    <contour>
+      <point x="566" y="-165" type="line"/>
+      <point x="635" y="-165" type="line"/>
+      <point x="635" y="-9" type="line"/>
+      <point x="803" y="3"/>
+      <point x="892" y="121"/>
+      <point x="892" y="333" type="curve" smooth="yes"/>
+      <point x="892" y="714" type="line"/>
+      <point x="821" y="714" type="line"/>
+      <point x="821" y="333" type="line" smooth="yes"/>
+      <point x="821" y="166"/>
+      <point x="759" y="76"/>
+      <point x="635" y="64" type="curve"/>
+      <point x="635" y="714" type="line"/>
+      <point x="566" y="714" type="line"/>
+      <point x="566" y="64" type="line"/>
+      <point x="441" y="78"/>
+      <point x="380" y="165"/>
+      <point x="380" y="333" type="curve" smooth="yes"/>
+      <point x="380" y="714" type="line"/>
+      <point x="309" y="714" type="line"/>
+      <point x="309" y="333" type="line" smooth="yes"/>
+      <point x="309" y="123"/>
+      <point x="398" y="5"/>
+      <point x="566" y="-8" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB66" format="2">
+  <advance width="600"/>
+  <unicode hex="AB66"/>
+  <outline>
+    <component base="dzlig"/>
+    <contour>
+      <point x="626" y="-198" type="curve" smooth="yes"/>
+      <point x="651" y="-198"/>
+      <point x="673" y="-191"/>
+      <point x="686" y="-186" type="curve"/>
+      <point x="686" y="-113" type="line"/>
+      <point x="675" y="-117"/>
+      <point x="657" y="-122"/>
+      <point x="636" y="-122" type="curve" smooth="yes"/>
+      <point x="606" y="-122"/>
+      <point x="588" y="-106"/>
+      <point x="588" y="-70" type="curve" smooth="yes"/>
+      <point x="588" y="20" type="line"/>
+      <point x="509" y="48" type="line"/>
+      <point x="509" y="-65" type="line" smooth="yes"/>
+      <point x="509" y="-151"/>
+      <point x="546" y="-198"/>
+    </contour>
+  </outline>
+</glyph>

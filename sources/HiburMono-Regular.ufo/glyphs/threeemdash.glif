@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeemdash" format="2">
+  <advance width="1800"/>
+  <unicode hex="2E3B"/>
+  <outline>
+    <component base="emdash" xOffset="1200"/>
+    <component base="emdash" xOffset="600"/>
+    <component base="emdash"/>
+  </outline>
+</glyph>

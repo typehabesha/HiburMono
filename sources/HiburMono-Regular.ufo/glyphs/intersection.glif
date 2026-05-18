@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="intersection" format="2">
+  <advance width="600"/>
+  <unicode hex="2229"/>
+  <outline>
+    <contour>
+      <point x="86" y="-1" type="line"/>
+      <point x="136" y="-1" type="line"/>
+      <point x="136" y="249" type="line" smooth="yes"/>
+      <point x="136" y="376"/>
+      <point x="204" y="457"/>
+      <point x="308" y="457" type="curve" smooth="yes"/>
+      <point x="413" y="457"/>
+      <point x="483" y="374"/>
+      <point x="483" y="250" type="curve" smooth="yes"/>
+      <point x="483" y="-1" type="line"/>
+      <point x="533" y="-1" type="line"/>
+      <point x="533" y="249" type="line" smooth="yes"/>
+      <point x="533" y="405"/>
+      <point x="438" y="504"/>
+      <point x="308" y="504" type="curve" smooth="yes"/>
+      <point x="168" y="504"/>
+      <point x="86" y="397"/>
+      <point x="86" y="249" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>RMXScaler</key>
+  <dict>
+    <key>source</key>
+    <string>intersection</string>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

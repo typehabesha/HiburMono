@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="neitherapproximatelynoractuallyequalto" format="2">
+  <advance width="600"/>
+  <unicode hex="2247"/>
+  <outline>
+    <component base="congruent"/>
+    <contour>
+      <point x="207" y="0" type="line"/>
+      <point x="487" y="714" type="line"/>
+      <point x="411" y="714" type="line"/>
+      <point x="131" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

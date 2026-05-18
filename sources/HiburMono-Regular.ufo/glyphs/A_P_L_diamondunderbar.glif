@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="APLdiamondunderbar" format="2">
+  <advance width="1200"/>
+  <unicode hex="235A"/>
+  <outline>
+    <contour>
+      <point x="980" y="380" type="line"/>
+      <point x="600" y="760" type="line"/>
+      <point x="220" y="380" type="line"/>
+      <point x="600" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="980" y="-149" type="line"/>
+      <point x="980" y="-78" type="line"/>
+      <point x="220" y="-78" type="line"/>
+      <point x="220" y="-149" type="line"/>
+    </contour>
+    <contour>
+      <point x="322" y="380" type="line"/>
+      <point x="600" y="658" type="line"/>
+      <point x="878" y="380" type="line"/>
+      <point x="600" y="102" type="line"/>
+    </contour>
+  </outline>
+</glyph>

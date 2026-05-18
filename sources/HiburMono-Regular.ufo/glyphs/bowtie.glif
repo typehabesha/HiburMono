@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bowtie" format="2">
+  <advance width="600"/>
+  <unicode hex="22C8"/>
+  <outline>
+    <contour>
+      <point x="299" y="276" type="line"/>
+      <point x="536" y="41" type="line"/>
+      <point x="575" y="55" type="line"/>
+      <point x="575" y="599" type="line"/>
+      <point x="536" y="613" type="line"/>
+      <point x="300" y="378" type="line"/>
+      <point x="64" y="613" type="line"/>
+      <point x="25" y="599" type="line"/>
+      <point x="25" y="55" type="line"/>
+      <point x="64" y="41" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="479" type="line"/>
+      <point x="249" y="328" type="line"/>
+      <point x="96" y="174" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="328" type="line"/>
+      <point x="504" y="481" type="line"/>
+      <point x="504" y="173" type="line"/>
+    </contour>
+  </outline>
+</glyph>

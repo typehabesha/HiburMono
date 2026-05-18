@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="raiseddottedinterpolationmarker" format="2">
+  <advance width="600"/>
+  <unicode hex="2E07"/>
+  <outline>
+    <contour>
+      <point x="326" y="276" type="line"/>
+      <point x="326" y="661" type="line"/>
+      <point x="514" y="661" type="line"/>
+      <point x="514" y="714" type="line"/>
+      <point x="85" y="714" type="line"/>
+      <point x="85" y="661" type="line"/>
+      <point x="273" y="661" type="line"/>
+      <point x="273" y="276" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="444" type="curve" smooth="yes"/>
+      <point x="468" y="444"/>
+      <point x="486" y="461"/>
+      <point x="486" y="495" type="curve" smooth="yes"/>
+      <point x="486" y="530"/>
+      <point x="468" y="547"/>
+      <point x="441" y="547" type="curve" smooth="yes"/>
+      <point x="414" y="547"/>
+      <point x="397" y="530"/>
+      <point x="397" y="495" type="curve" smooth="yes"/>
+      <point x="397" y="461"/>
+      <point x="414" y="444"/>
+    </contour>
+  </outline>
+</glyph>

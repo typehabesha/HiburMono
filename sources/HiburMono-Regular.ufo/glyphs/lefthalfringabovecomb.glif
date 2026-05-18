@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lefthalfringabovecomb" format="2">
+  <unicode hex="0351"/>
+  <anchor x="0" y="536" name="_top"/>
+  <anchor x="0" y="806" name="top"/>
+  <outline>
+    <component base="uni02BF" xOffset="-300" yOffset="20"/>
+  </outline>
+</glyph>

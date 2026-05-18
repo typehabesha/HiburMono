@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="APLquadgreater-than" format="2">
+  <advance width="600"/>
+  <unicode hex="2344"/>
+  <outline>
+    <component base="APLquad"/>
+    <contour>
+      <point x="514" y="333" type="line"/>
+      <point x="514" y="381" type="line"/>
+      <point x="40" y="570" type="line"/>
+      <point x="40" y="493" type="line"/>
+      <point x="396" y="357" type="line"/>
+      <point x="40" y="221" type="line"/>
+      <point x="40" y="144" type="line"/>
+    </contour>
+  </outline>
+</glyph>

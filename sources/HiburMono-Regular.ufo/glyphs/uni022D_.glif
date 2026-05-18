@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni022D" format="2">
+  <advance width="600"/>
+  <unicode hex="022D"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="888" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="300"/>
+    <component base="macroncomb" xOffset="300" yOffset="199"/>
+  </outline>
+</glyph>

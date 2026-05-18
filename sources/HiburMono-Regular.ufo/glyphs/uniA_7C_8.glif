@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7C8" format="2">
+  <advance width="600"/>
+  <unicode hex="A7C8"/>
+  <outline>
+    <component base="d"/>
+    <contour>
+      <point x="480" y="238" type="line"/>
+      <point x="480" y="303" type="line"/>
+      <point x="104" y="303" type="line"/>
+      <point x="104" y="238" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>d</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>d</string>
+  </dict>
+  </lib>
+</glyph>

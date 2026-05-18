@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="neitherless-thannorequivalentto" format="2">
+  <advance width="600"/>
+  <unicode hex="2274"/>
+  <outline>
+    <component base="lessorequivalent"/>
+    <contour>
+      <point x="174" y="-59" type="line"/>
+      <point x="477" y="714" type="line"/>
+      <point x="401" y="714" type="line"/>
+      <point x="98" y="-59" type="line"/>
+    </contour>
+  </outline>
+</glyph>

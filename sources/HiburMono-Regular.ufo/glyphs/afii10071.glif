@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10071" format="2">
+  <advance width="600"/>
+  <unicode hex="0451"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="317" y="738" name="top"/>
+  <outline>
+    <component base="afii10070"/>
+    <component base="dieresiscomb" xOffset="310"/>
+  </outline>
+</glyph>

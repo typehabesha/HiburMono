@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longshighstroke" format="2">
+  <advance width="600"/>
+  <unicode hex="1E9D"/>
+  <anchor x="269" y="0" name="bottom"/>
+  <anchor x="300" y="765" name="top"/>
+  <outline>
+    <component base="longs"/>
+    <contour>
+      <point x="418" y="464" type="line"/>
+      <point x="418" y="536" type="line"/>
+      <point x="112" y="536" type="line"/>
+      <point x="112" y="464" type="line"/>
+    </contour>
+  </outline>
+</glyph>

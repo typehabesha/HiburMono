@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gammaDoubleStruck" format="2">
+  <advance width="600"/>
+  <unicode hex="213D"/>
+  <outline>
+    <contour>
+      <point x="301" y="-240" type="line"/>
+      <point x="303" y="-158"/>
+      <point x="327" y="-68"/>
+      <point x="358" y="13" type="curve" smooth="yes"/>
+      <point x="555" y="536" type="line"/>
+      <point x="498" y="536" type="line"/>
+      <point x="400" y="271" type="line" smooth="yes"/>
+      <point x="395" y="257"/>
+      <point x="381" y="215"/>
+      <point x="380" y="210" type="curve"/>
+      <point x="377" y="224"/>
+      <point x="363" y="253"/>
+      <point x="354" y="272" type="curve" smooth="yes"/>
+      <point x="228" y="536" type="line"/>
+      <point x="45" y="536" type="line"/>
+      <point x="302" y="6" type="line"/>
+      <point x="272" y="-76"/>
+      <point x="251" y="-185"/>
+      <point x="251" y="-240" type="curve"/>
+    </contour>
+    <contour>
+      <point x="321" y="60" type="line"/>
+      <point x="315" y="95"/>
+      <point x="261" y="204"/>
+      <point x="237" y="255" type="curve" smooth="yes"/>
+      <point x="126" y="487" type="line"/>
+      <point x="194" y="487" type="line"/>
+      <point x="355" y="154" type="line"/>
+      <point x="341" y="114"/>
+      <point x="328" y="76"/>
+      <point x="325" y="60" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

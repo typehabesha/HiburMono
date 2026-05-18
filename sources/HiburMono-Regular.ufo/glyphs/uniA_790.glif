@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA790" format="2">
+  <advance width="600"/>
+  <unicode hex="A790"/>
+  <outline>
+    <component base="N"/>
+    <contour>
+      <point x="530" y="-201" type="line"/>
+      <point x="530" y="75" type="line"/>
+      <point x="464" y="75" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="446" y="-201" type="line"/>
+    </contour>
+  </outline>
+</glyph>

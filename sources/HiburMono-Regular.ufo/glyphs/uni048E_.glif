@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni048E" format="2">
+  <advance width="600"/>
+  <unicode hex="048E"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="714" name="top"/>
+  <outline>
+    <component base="P"/>
+    <contour>
+      <point x="531" y="246" type="line"/>
+      <point x="365" y="472" type="line"/>
+      <point x="310" y="430" type="line"/>
+      <point x="480" y="203" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2C6B" format="2">
+  <advance width="600"/>
+  <unicode hex="2C6B"/>
+  <anchor x="312" y="-190" name="bottom"/>
+  <anchor x="312" y="714" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <contour>
+      <point x="505" y="-188" type="line"/>
+      <point x="505" y="80" type="line"/>
+      <point x="409" y="80" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="419" y="-188" type="line"/>
+    </contour>
+  </outline>
+</glyph>

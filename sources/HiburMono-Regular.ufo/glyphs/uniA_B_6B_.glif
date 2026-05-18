@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB6B" format="2">
+  <advance width="600"/>
+  <unicode hex="AB6B"/>
+  <outline>
+    <contour>
+      <point x="290" y="180" type="line"/>
+      <point x="290" y="252" type="line"/>
+      <point x="390" y="252" type="line"/>
+      <point x="390" y="318" type="line"/>
+      <point x="290" y="318" type="line"/>
+      <point x="290" y="390" type="line"/>
+      <point x="230" y="390" type="line"/>
+      <point x="230" y="180" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|uniAB6A</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>uni02D4</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endofproof" format="2">
+  <advance width="600"/>
+  <unicode hex="220E"/>
+  <outline>
+    <contour>
+      <point x="528" y="0" type="line"/>
+      <point x="528" y="672" type="line"/>
+      <point x="72" y="672" type="line"/>
+      <point x="72" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

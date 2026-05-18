@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notsquareoriginaloforequalto" format="2">
+  <advance width="600"/>
+  <unicode hex="22E3"/>
+  <outline>
+    <component base="squareoriginaloforequalto"/>
+    <component base="slashlongoverlaycomb" xOffset="286"/>
+  </outline>
+</glyph>

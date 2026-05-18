@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10081" format="2">
+  <advance width="600"/>
+  <unicode hex="043F"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="580" y="0" name="bottomright"/>
+  <anchor x="302" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="165" y="0" type="line"/>
+      <point x="165" y="464" type="line"/>
+      <point x="436" y="464" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="537" type="line"/>
+      <point x="80" y="537" type="line"/>
+      <point x="80" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>d</string>
+  </dict>
+  </lib>
+</glyph>

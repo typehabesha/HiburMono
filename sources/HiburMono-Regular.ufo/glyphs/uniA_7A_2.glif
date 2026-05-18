@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7A2" format="2">
+  <advance width="600"/>
+  <unicode hex="A7A2"/>
+  <outline>
+    <component base="K"/>
+    <contour>
+      <point x="600" y="380" type="line"/>
+      <point x="600" y="442" type="line"/>
+      <point x="228" y="378" type="line"/>
+      <point x="257" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="303" type="line"/>
+      <point x="147" y="364" type="line"/>
+      <point x="0" y="340" type="line"/>
+      <point x="0" y="278" type="line"/>
+    </contour>
+  </outline>
+</glyph>

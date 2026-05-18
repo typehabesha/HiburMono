@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ligaturelefthalfbelowcomb" format="2">
+  <unicode hex="FE27"/>
+  <outline>
+    <component base="ligaturelefthalfcomb" yScale="-1" yOffset="521"/>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="conjoiningmacronbelowcomb" format="2">
+  <unicode hex="FE2D"/>
+  <outline>
+    <component base="conjoiningmacroncomb" yOffset="-810"/>
+  </outline>
+</glyph>

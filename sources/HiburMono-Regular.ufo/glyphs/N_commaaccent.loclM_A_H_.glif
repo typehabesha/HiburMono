@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent.loclMAH" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="N"/>
+    <component base="cedillacomb" xOffset="321"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>N</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>N</string>
+  </dict>
+  </lib>
+</glyph>

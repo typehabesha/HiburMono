@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te-ethi" format="2">
+  <advance width="600"/>
+  <unicode hex="1275"/>
+  <anchor x="182" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="70" y="318" type="line"/>
+      <point x="70" y="395" type="line"/>
+      <point x="530" y="395" type="line"/>
+      <point x="530" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="539" type="line"/>
+      <point x="137" y="539" type="line"/>
+      <point x="137" y="714" type="line"/>
+      <point x="227" y="714" type="line"/>
+      <point x="227" y="609" type="line"/>
+      <point x="345" y="609" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notalmostequalto" format="2">
+  <advance width="600"/>
+  <unicode hex="2249"/>
+  <outline>
+    <component base="approxequal"/>
+    <contour>
+      <point x="173" y="-2" type="line"/>
+      <point x="454" y="714" type="line"/>
+      <point x="378" y="714" type="line"/>
+      <point x="97" y="-2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

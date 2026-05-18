@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="forkedparagraphos" format="2">
+  <advance width="600"/>
+  <unicode hex="2E10"/>
+  <outline>
+    <contour>
+      <point x="247" y="-148" type="line"/>
+      <point x="600" y="-148" type="line"/>
+      <point x="600" y="-96" type="line"/>
+      <point x="0" y="-96" type="line"/>
+      <point x="0" y="-148" type="line"/>
+      <point x="172" y="-148" type="line"/>
+      <point x="4" y="-295" type="line"/>
+      <point x="39" y="-332" type="line"/>
+    </contour>
+  </outline>
+</glyph>

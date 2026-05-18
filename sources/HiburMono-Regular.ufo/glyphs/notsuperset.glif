@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notsuperset" format="2">
+  <advance width="600"/>
+  <unicode hex="2285"/>
+  <outline>
+    <component base="superset"/>
+    <component base="slashlongoverlaycomb" xOffset="276"/>
+  </outline>
+</glyph>

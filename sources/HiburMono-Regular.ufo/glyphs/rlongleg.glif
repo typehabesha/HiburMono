@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rlongleg" format="2">
+  <advance width="600"/>
+  <unicode hex="027C"/>
+  <anchor x="276" y="-240" name="bottom"/>
+  <anchor x="348" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="316" y="-240" type="line"/>
+      <point x="316" y="269" type="line" smooth="yes"/>
+      <point x="316" y="377"/>
+      <point x="377" y="467"/>
+      <point x="463" y="467" type="curve" smooth="yes"/>
+      <point x="496" y="467"/>
+      <point x="526" y="457"/>
+      <point x="548" y="445" type="curve"/>
+      <point x="572" y="524" type="line"/>
+      <point x="543" y="537"/>
+      <point x="508" y="546"/>
+      <point x="463" y="546" type="curve" smooth="yes"/>
+      <point x="389" y="546"/>
+      <point x="350" y="508"/>
+      <point x="313" y="438" type="curve"/>
+      <point x="309" y="438" type="line"/>
+      <point x="297" y="536" type="line"/>
+      <point x="78" y="536" type="line"/>
+      <point x="78" y="474" type="line"/>
+      <point x="225" y="461" type="line"/>
+      <point x="225" y="-240" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta" format="2">
+  <advance width="600"/>
+  <unicode hex="03B4"/>
+  <anchor x="306" y="0" name="bottom"/>
+  <anchor x="337" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="299" y="-10" type="curve" smooth="yes"/>
+      <point x="447" y="-10"/>
+      <point x="545" y="78"/>
+      <point x="545" y="232" type="curve" smooth="yes"/>
+      <point x="545" y="363"/>
+      <point x="474" y="422"/>
+      <point x="360" y="489" type="curve" smooth="yes"/>
+      <point x="284" y="533"/>
+      <point x="226" y="560"/>
+      <point x="226" y="618" type="curve" smooth="yes"/>
+      <point x="226" y="656"/>
+      <point x="250" y="688"/>
+      <point x="319" y="688" type="curve" smooth="yes"/>
+      <point x="381" y="688"/>
+      <point x="441" y="662"/>
+      <point x="485" y="637" type="curve"/>
+      <point x="523" y="706" type="line"/>
+      <point x="472" y="732"/>
+      <point x="405" y="760"/>
+      <point x="321" y="760" type="curve" smooth="yes"/>
+      <point x="212" y="760"/>
+      <point x="137" y="712"/>
+      <point x="137" y="620" type="curve" smooth="yes"/>
+      <point x="137" y="546"/>
+      <point x="186" y="499"/>
+      <point x="261" y="456" type="curve"/>
+      <point x="142" y="420"/>
+      <point x="55" y="342"/>
+      <point x="55" y="212" type="curve" smooth="yes"/>
+      <point x="55" y="72"/>
+      <point x="156" y="-10"/>
+    </contour>
+    <contour>
+      <point x="299" y="63" type="curve" smooth="yes"/>
+      <point x="203" y="63"/>
+      <point x="147" y="122"/>
+      <point x="147" y="217" type="curve" smooth="yes"/>
+      <point x="147" y="343"/>
+      <point x="247" y="398"/>
+      <point x="331" y="418" type="curve"/>
+      <point x="407" y="377"/>
+      <point x="454" y="328"/>
+      <point x="454" y="231" type="curve" smooth="yes"/>
+      <point x="454" y="126"/>
+      <point x="398" y="63"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>o</string>
+  </dict>
+  </lib>
+</glyph>

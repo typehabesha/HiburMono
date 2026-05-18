@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imod" format="2">
+  <advance width="600"/>
+  <unicode hex="2071"/>
+  <outline>
+    <component base="i" xScale="0.65" yScale="0.6" xOffset="98" yOffset="287"/>
+  </outline>
+</glyph>

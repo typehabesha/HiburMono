@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildelefthalfbelowcomb" format="2">
+  <unicode hex="FE29"/>
+  <outline>
+    <component base="doubletildelefthalfcomb" yOffset="-832"/>
+  </outline>
+</glyph>

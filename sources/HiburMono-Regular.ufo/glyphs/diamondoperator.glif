@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diamondoperator" format="2">
+  <advance width="600"/>
+  <unicode hex="22C4"/>
+  <outline>
+    <contour>
+      <point x="544" y="353" type="line"/>
+      <point x="301" y="596" type="line"/>
+      <point x="57" y="353" type="line"/>
+      <point x="301" y="109" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="353" type="line"/>
+      <point x="301" y="498" type="line"/>
+      <point x="446" y="353" type="line"/>
+      <point x="301" y="208" type="line"/>
+    </contour>
+  </outline>
+</glyph>

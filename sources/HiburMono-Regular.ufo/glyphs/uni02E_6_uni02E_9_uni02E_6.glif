@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02E6_uni02E9_uni02E6" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="424" y="432" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="688" type="line"/>
+      <point x="424" y="688" type="line"/>
+      <point x="424" y="625" type="line"/>
+      <point x="267" y="198" type="line"/>
+      <point x="113" y="653" type="line"/>
+      <point x="52" y="629" type="line"/>
+      <point x="264" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

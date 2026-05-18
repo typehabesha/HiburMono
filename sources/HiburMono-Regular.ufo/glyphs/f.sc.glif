@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.sc" format="2">
+  <advance width="600"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="320" y="572" name="top"/>
+  <anchor x="580" y="572" name="topright"/>
+  <outline>
+    <contour>
+      <point x="223" y="0" type="line"/>
+      <point x="223" y="238" type="line"/>
+      <point x="469" y="238" type="line"/>
+      <point x="469" y="309" type="line"/>
+      <point x="223" y="309" type="line"/>
+      <point x="223" y="501" type="line"/>
+      <point x="484" y="501" type="line"/>
+      <point x="484" y="572" type="line"/>
+      <point x="136" y="572" type="line"/>
+      <point x="136" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>e.sc</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>e.sc</string>
+  </dict>
+  </lib>
+</glyph>
