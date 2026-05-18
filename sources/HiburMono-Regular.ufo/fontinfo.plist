@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>700</integer>
   <key>copyright</key>
-  <string>Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono).  Noto glyphs are Copyright 2015 Google LLC. All Rights Reserved.</string>
+  <string>Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono). Noto glyphs are Copyright 2015 Google LLC. All Rights Reserved.</string>
   <key>descender</key>
   <integer>-293</integer>
   <key>familyName</key>
@@ -55,7 +55,7 @@
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDescription</key>
-  <string>Hibur Mono is a project intended to create a monospaced styled Ethiopic supporting font, which specially will be useful in coding, and related usage in terminals.  The Latin and other non-Ethiopic glyphs come from the Regular master of Noto Sans Mono typeface v2.6.</string>
+  <string>Hibur Mono is a project intended to create a monospaced styled Ethiopic supporting font, which specially will be useful in coding, and related usage in terminals. The Latin and other non-Ethiopic glyphs come from the Regular master of Noto Sans Mono typeface v2.6.</string>
   <key>openTypeNameDesigner</key>
   <string>Behailu Berento</string>
   <key>openTypeNameDesignerURL</key>
@@ -63,7 +63,7 @@
   <key>openTypeNameLicense</key>
   <string>Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono).
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  Refer to the he specific language, permissions and limitations governing your use of this Font Software in the license text copied below. See also the Open Font License FAQ at: https://openfontlicense.org/
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. Refer to the he specific language, permissions and limitations governing your use of this Font Software in the license text copied below. See also the Open Font License FAQ at: https://openfontlicense.org/
 
 
 -----------------------------------------------------------
