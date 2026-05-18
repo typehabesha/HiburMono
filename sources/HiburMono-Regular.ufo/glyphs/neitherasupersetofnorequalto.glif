@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="neitherasupersetofnorequalto" format="2">
-  <advance width="600"/>
-  <unicode hex="2289"/>
-  <outline>
-    <component base="reflexsuperset"/>
-    <component base="slashlongoverlaycomb" xOffset="276"/>
-  </outline>
-</glyph>

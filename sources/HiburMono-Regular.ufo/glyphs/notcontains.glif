@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="notcontains" format="2">
-  <advance width="600"/>
-  <unicode hex="220C"/>
-  <outline>
-    <component base="suchthat"/>
-    <component base="slashlongoverlaycomb" xOffset="276"/>
-  </outline>
-</glyph>

@@ -3,20 +3,12 @@
   <advance width="600"/>
   <unicode hex="00B5"/>
   <outline>
-    <component base="u"/>
-    <contour>
-      <point x="165" y="-240" type="line"/>
-      <point x="165" y="227" type="line"/>
-      <point x="75" y="227" type="line"/>
-      <point x="75" y="-240" type="line"/>
-    </contour>
+    <component base="uni03BC"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>u</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>u</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni03BC</string>
   </dict>
   </lib>
 </glyph>

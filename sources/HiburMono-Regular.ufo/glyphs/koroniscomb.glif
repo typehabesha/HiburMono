@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="koroniscomb" format="2">
-  <unicode hex="0343"/>
-  <anchor x="0" y="528" name="_top"/>
-  <anchor x="0" y="714" name="top"/>
-  <outline>
-    <component base="caroncommaaccent" xOffset="-300" yOffset="7"/>
-  </outline>
-</glyph>

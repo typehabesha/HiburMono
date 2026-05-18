@@ -2,24 +2,14 @@
 <glyph name="L" format="2">
   <advance width="600"/>
   <unicode hex="004C"/>
-  <anchor x="330" y="0" name="bottom"/>
-  <anchor x="300" y="357" name="center"/>
-  <anchor x="161" y="714" name="top"/>
-  <anchor x="446" y="714" name="topright"/>
   <outline>
     <contour>
-      <point x="515" y="0" type="line"/>
-      <point x="515" y="83" type="line"/>
-      <point x="205" y="83" type="line"/>
-      <point x="205" y="714" type="line"/>
-      <point x="115" y="714" type="line"/>
       <point x="115" y="0" type="line"/>
+      <point x="115" y="714" type="line"/>
+      <point x="205" y="714" type="line"/>
+      <point x="205" y="83" type="line"/>
+      <point x="515" y="83" type="line"/>
+      <point x="515" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsRight</key>
-  <string>E</string>
-  </dict>
-  </lib>
 </glyph>

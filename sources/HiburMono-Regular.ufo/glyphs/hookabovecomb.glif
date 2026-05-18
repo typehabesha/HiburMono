@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hookabovecomb" format="2">
-  <unicode hex="0309"/>
-  <anchor x="0" y="536" name="_top"/>
-  <anchor x="0" y="821" name="top"/>
-  <outline>
-    <component base="hook" xOffset="23"/>
-  </outline>
-</glyph>

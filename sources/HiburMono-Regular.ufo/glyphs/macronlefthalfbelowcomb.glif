@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macronlefthalfbelowcomb" format="2">
-  <unicode hex="FE2B"/>
-  <outline>
-    <component base="overscore" xOffset="-152" yOffset="-689"/>
-  </outline>
-</glyph>

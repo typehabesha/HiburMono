@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2DFC" format="2">
-  <unicode hex="2DFC"/>
-  <anchor x="-1" y="536" name="_top"/>
-  <anchor x="-1" y="838" name="top"/>
-  <outline>
-    <component base="uniA657" xScale="0.45" yScale="0.4" xOffset="-260" yOffset="620"/>
-  </outline>
-</glyph>

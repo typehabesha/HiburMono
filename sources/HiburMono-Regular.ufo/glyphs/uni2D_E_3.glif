@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2DE3" format="2">
-  <unicode hex="2DE3"/>
-  <anchor x="10" y="636" name="_top"/>
-  <anchor x="10" y="935" name="top"/>
-  <outline>
-    <component base="afii10069" xScale="0.45" yScale="0.4" xOffset="-125" yOffset="720"/>
-  </outline>
-</glyph>

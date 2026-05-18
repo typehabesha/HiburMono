@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="raiseddot" format="2">
-  <advance width="600"/>
-  <unicode hex="2E33"/>
-  <outline>
-    <component base="period" yOffset="160"/>
-  </outline>
-</glyph>

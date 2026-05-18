@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="invertedundertie" format="2">
-  <advance width="600"/>
-  <unicode hex="2054"/>
-  <outline>
-    <component base="undertie" yScale="-1" xOffset="-5" yOffset="-260"/>
-  </outline>
-</glyph>
