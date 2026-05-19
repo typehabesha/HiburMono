@@ -8,9 +8,9 @@
     <component base="L" xOffset="40"/>
     <contour>
       <point x="401" y="394" type="line"/>
-      <point x="365" y="457" type="line"/>
-      <point x="54" y="273" type="line"/>
       <point x="89" y="213" type="line"/>
+      <point x="54" y="273" type="line"/>
+      <point x="365" y="457" type="line"/>
     </contour>
   </outline>
 </glyph>
