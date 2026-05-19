@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJacute" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="IJ" xScale="0.8" yScale="0.8"/>
+    <component base="acutecomb" xScale="0.8" yScale="0.8" xOffset="130" yOffset="193"/>
+    <component base="acutecomb" xScale="0.8" yScale="0.8" xOffset="380" yOffset="193"/>
+  </outline>
+</glyph>
