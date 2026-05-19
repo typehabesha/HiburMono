@@ -32,6 +32,8 @@
 languagesystem DFLT dflt; # Default default
 languagesystem latn dflt; # Latin default
 languagesystem grek dflt; # Greek default
+languagesystem latn NLD;
+languagesystem latn ROM;
 
 #
 # Lookup definitions
@@ -87,6 +89,7 @@ lookup ccmp_latn_decomposeLowercaseIJ {
 
 } ccmp;
 feature mark {
+#> feature
 # GPOS feature : Mark Positioning
     markClass uni135D <anchor 311 786> @top;
     markClass uni135E <anchor 311 786> @top;
@@ -107,6 +110,8 @@ feature mark {
     markClass ogonekcomb <anchor 0 0> @bottom;
 
   lookup markLTR {
+      pos base J
+          <anchor 420 770> mark @top;
       pos base Dcroat
           <anchor 300 0> mark @bottom
           <anchor 300 714> mark @top;
@@ -1212,11 +1217,16 @@ feature mark {
           <anchor 300 800> mark @top;
       pos base uni130B
           <anchor 300 800> mark @top;
+      pos base iogonekdotless
+          <anchor 300 -220> mark @bottom
+          <anchor 300 536> mark @top;
   } markLTR;
 
   lookup markLTR;
+#< feature
 } mark;
 feature mkmk {
+#> feature
 # GPOS feature : Mark to Mark Positioning
 #    markClass uni135D <anchor 311 786> @top;
 #    markClass uni135E <anchor 311 786> @top;
@@ -1274,4 +1284,27 @@ feature mkmk {
   } mkmkLTR;
 
   lookup mkmkLTR;
+#< feature
 } mkmk;
+feature locl {
+script latn;
+
+language NLD;
+lookup locl_latn_NLD_IJ {
+	sub i j by ij;
+	sub I J by IJ;
+	sub iacute j by ijacute;
+	sub Iacute J by IJacute;
+	sub iacute jdotless acutecomb by ijacute;
+	sub Iacute J acutecomb by IJacute;
+} locl_latn_NLD_IJ;
+
+language ROM;
+lookup locl_latn_ROM_commaaccent {
+	sub Scedilla by Scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_ROM_commaaccent;
+
+} locl;

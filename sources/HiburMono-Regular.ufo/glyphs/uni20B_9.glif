@@ -45,7 +45,7 @@
   <lib>
   <dict>
   <key>note</key>
-  <real>0</real>
+  <string>From: Noto Sans Malayalam</string>
   </dict>
   </lib>
 </glyph>
