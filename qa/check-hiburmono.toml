@@ -1,0 +1,19 @@
+"include_profiles" = ["googlefonts"]
+"exclude_checks" = [
+	#
+	# Not applicable as per discussion here: https://github.com/fonttools/fonttools/issues/3014
+	#
+	"opentype/monospace",
+	#
+        # "googlefonts/glyphsets/shape_languages",
+	#
+	# Disabled because fontspector appears to be ignoring the subsets in the METADATA.pb
+	#
+        "googlefonts/metadata/unreachable_subsetting",
+	#
+        "googlefonts/meta/script_lang_tags",
+	#
+	# this test is not applicable for repos upstream of https://github.com/google/fonts
+	#
+	"googlefonts/repo/dirname_matches_nameid_1"
+]
