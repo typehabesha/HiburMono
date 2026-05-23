@@ -88,12 +88,33 @@ lookup ccmp_latn_decomposeLowercaseIJ {
 
 
 } ccmp;
+feature locl {
+script latn;
+
+language NLD;
+lookup locl_latn_NLD_IJ {
+	sub i j by ij;
+	sub I J by IJ;
+	sub iacute j by ijacute;
+	sub Iacute J by IJacute;
+	sub iacute jdotless acutecomb by ijacute;
+	sub Iacute J acutecomb by IJacute;
+} locl_latn_NLD_IJ;
+
+language ROM;
+lookup locl_latn_ROM_commaaccent {
+	sub Scedilla by Scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_ROM_commaaccent;
+
+} locl;
 feature mark {
-#> feature
 # GPOS feature : Mark Positioning
-    markClass uni135D <anchor 311 786> @top;
-    markClass uni135E <anchor 311 786> @top;
-    markClass uni135F <anchor 295 786> @top;
+    markClass uni135D <anchor 0 786> @top;
+    markClass uni135E <anchor 0 786> @top;
+    markClass uni135F <anchor 0 786> @top;
     markClass gravecomb <anchor 0 536> @top;
     markClass acutecomb <anchor 0 536> @top;
     markClass circumflexcomb <anchor 0 536> @top;
@@ -112,6 +133,18 @@ feature mark {
   lookup markLTR {
       pos base J
           <anchor 420 770> mark @top;
+      pos base L
+          <anchor 160 800> mark @top;
+      pos base M
+          <anchor 300 800> mark @top;
+      pos base R
+          <anchor 262 800> mark @top;
+      pos base l
+          <anchor 321 800> mark @top;
+      pos base m
+          <anchor 300 600> mark @top;
+      pos base r
+          <anchor 300 600> mark @top;
       pos base Dcroat
           <anchor 300 0> mark @bottom
           <anchor 300 714> mark @top;
@@ -1220,17 +1253,23 @@ feature mark {
       pos base iogonekdotless
           <anchor 300 -220> mark @bottom
           <anchor 300 536> mark @top;
+      pos base uni01FE
+          <anchor 240 966> mark @top;
+      pos base uni01FF
+          <anchor 240 766> mark @top;
+      pos base uni1EBC
+          <anchor 300 935> mark @top;
+      pos base uni1EBD
+          <anchor 300 735> mark @top;
   } markLTR;
 
   lookup markLTR;
-#< feature
 } mark;
 feature mkmk {
-#> feature
 # GPOS feature : Mark to Mark Positioning
-#    markClass uni135D <anchor 311 786> @top;
-#    markClass uni135E <anchor 311 786> @top;
-#    markClass uni135F <anchor 295 786> @top;
+#    markClass uni135D <anchor 0 786> @top;
+#    markClass uni135E <anchor 0 786> @top;
+#    markClass uni135F <anchor 0 786> @top;
 #    markClass gravecomb <anchor 0 536> @top;
 #    markClass acutecomb <anchor 0 536> @top;
 #    markClass circumflexcomb <anchor 0 536> @top;
@@ -1245,14 +1284,15 @@ feature mkmk {
 #    markClass commaaccent <anchor 0 0> @bottom;
 #    markClass cedillacomb <anchor 0 0> @bottom;
 #    markClass ogonekcomb <anchor 0 0> @bottom;
+#    markClass uni02BB <anchor 355 536> @top;
 
   lookup mkmkLTR {
       pos mark uni135D
-          <anchor 311 1097> mark @top;
+          <anchor 0 1097> mark @top;
       pos mark uni135E
-          <anchor 311 1097> mark @top;
+          <anchor 0 1097> mark @top;
       pos mark uni135F
-          <anchor 295 1097> mark @top;
+          <anchor 0 1097> mark @top;
       pos mark gravecomb
           <anchor 0 766> mark @top;
       pos mark acutecomb
@@ -1284,27 +1324,4 @@ feature mkmk {
   } mkmkLTR;
 
   lookup mkmkLTR;
-#< feature
 } mkmk;
-feature locl {
-script latn;
-
-language NLD;
-lookup locl_latn_NLD_IJ {
-	sub i j by ij;
-	sub I J by IJ;
-	sub iacute j by ijacute;
-	sub Iacute J by IJacute;
-	sub iacute jdotless acutecomb by ijacute;
-	sub Iacute J acutecomb by IJacute;
-} locl_latn_NLD_IJ;
-
-language ROM;
-lookup locl_latn_ROM_commaaccent {
-	sub Scedilla by Scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub scedilla by scommaaccent;
-	sub tcedilla by tcommaaccent;
-} locl_latn_ROM_commaaccent;
-
-} locl;

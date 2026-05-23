@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01EF" format="2">
+  <advance width="600"/>
+  <unicode hex="01EF"/>
+  <anchor x="300" y="766" name="top"/>
+  <outline>
+    <component base="uni0292"/>
+    <component base="caroncomb" xOffset="300"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0292+uni030C</string>
+  </dict>
+  </lib>
+</glyph>

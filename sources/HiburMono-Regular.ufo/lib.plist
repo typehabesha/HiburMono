@@ -826,6 +826,27 @@
     <string>iogonekdotless</string>
     <string>IJacute</string>
     <string>ijacute</string>
+    <string>uni02BB</string>
+    <string>uni01CD</string>
+    <string>uni01CE</string>
+    <string>uni01FE</string>
+    <string>uni01FF</string>
+    <string>uni01D3</string>
+    <string>uni01D4</string>
+    <string>uni1EBC</string>
+    <string>uni1EBD</string>
+    <string>uni01E6</string>
+    <string>uni01E7</string>
+    <string>uni01E4</string>
+    <string>uni01E5</string>
+    <string>uni01B7</string>
+    <string>uni0292</string>
+    <string>uni01EE</string>
+    <string>uni021E</string>
+    <string>uni021F</string>
+    <string>uni01E8</string>
+    <string>uni01E9</string>
+    <string>uni01EF</string>
   </array>
   <key>public.skipExportGlyphs</key>
   <array>
