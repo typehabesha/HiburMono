@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01D4" format="2">
   <advance width="600"/>
   <unicode hex="01D4"/>
@@ -7,9 +7,9 @@
     <component base="caron"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.recipe</key>
-      <string>u+caron</string>
-    </dict>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>u+caron</string>
+  </dict>
   </lib>
 </glyph>

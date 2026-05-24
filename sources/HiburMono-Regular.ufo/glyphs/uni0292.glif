@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0292" format="2">
   <advance width="600"/>
   <unicode hex="0292"/>
@@ -9,17 +9,17 @@
       <point x="115" y="456" type="line"/>
       <point x="115" y="536" type="line"/>
       <point x="505" y="536" type="line"/>
-      <point x="505" y="463.179" type="line"/>
-      <point x="279.415" y="234" type="line"/>
-      <point x="279.415" y="231" type="line"/>
-      <point x="396.026" y="221.643"/>
+      <point x="505" y="463" type="line"/>
+      <point x="279" y="234" type="line"/>
+      <point x="279" y="231" type="line"/>
+      <point x="396" y="222"/>
       <point x="486" y="144"/>
       <point x="525" y="71"/>
       <point x="525" y="20" type="qcurve" smooth="yes"/>
       <point x="525" y="-40"/>
       <point x="469" y="-134"/>
       <point x="353" y="-188"/>
-      <point x="265.908" y="-188" type="qcurve" smooth="yes"/>
+      <point x="266" y="-188" type="qcurve" smooth="yes"/>
       <point x="218" y="-188"/>
       <point x="118" y="-171"/>
       <point x="74" y="-149" type="qcurve"/>

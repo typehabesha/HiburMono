@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni20B9" format="2">
   <advance width="600"/>
   <unicode hex="20B9"/>
-  <note>
-From: Noto Sans Malayalam
-</note>
+  <note>0</note>
   <outline>
     <contour>
       <point x="400" y="0" type="line"/>
@@ -44,10 +42,4 @@ From: Noto Sans Malayalam
       <point x="520" y="537" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>note</key>
-      <real>0.0</real>
-    </dict>
-  </lib>
 </glyph>

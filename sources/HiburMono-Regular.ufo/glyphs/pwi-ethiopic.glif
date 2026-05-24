@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="pwi-ethiopic" format="2">
-  <advance width="727"/>
-  <unicode hex="138D"/>
-  <outline>
-    <component base="uni1350" xOffset="70"/>
-  </outline>
-</glyph>

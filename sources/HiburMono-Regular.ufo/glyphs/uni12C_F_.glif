@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni12CF" format="2">
   <advance width="600"/>
   <unicode hex="12CF"/>
@@ -67,6 +67,5 @@
       <point x="190" y="462" type="line"/>
       <point x="190" y="385" type="line"/>
     </contour>
-    <component base="uni12CE" xOffset="62"/>
   </outline>
 </glyph>

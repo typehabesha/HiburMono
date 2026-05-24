@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="C" format="2">
   <advance width="600"/>
   <unicode hex="0043"/>
@@ -13,7 +13,7 @@
       <point x="106" y="577"/>
       <point x="184" y="673"/>
       <point x="296" y="724"/>
-      <point x="370.631" y="724" type="qcurve" smooth="yes"/>
+      <point x="371" y="724" type="qcurve" smooth="yes"/>
       <point x="421" y="724"/>
       <point x="512" y="702"/>
       <point x="550" y="682" type="qcurve"/>

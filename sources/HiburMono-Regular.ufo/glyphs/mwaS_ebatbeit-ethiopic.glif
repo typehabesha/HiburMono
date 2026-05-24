@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="mwaSebatbeit-ethiopic" format="2">
-  <advance width="1293"/>
-  <unicode hex="1380"/>
-  <outline>
-    <component base="uni1218" xOffset="51" yOffset="109"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="xyi-ethiopic" format="2">
-  <advance width="945"/>
-  <unicode hex="2DD2"/>
-  <outline>
-    <component base="uni12BA" xOffset="12"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ssa-ethiopic" format="2">
-  <advance width="773"/>
-  <unicode hex="2DA0"/>
-  <outline>
-    <component base="uni1238"/>
-  </outline>
-</glyph>

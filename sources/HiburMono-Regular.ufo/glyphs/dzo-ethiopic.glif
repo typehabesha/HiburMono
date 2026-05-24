@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dzo-ethiopic" format="2">
-  <advance width="549"/>
-  <unicode hex="AB16"/>
-  <outline>
-    <component base="uni12DE"/>
-  </outline>
-</glyph>

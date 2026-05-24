@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="zoa-ethiopic" format="2">
-  <advance width="677"/>
-  <unicode hex="2D8B"/>
-  <outline>
-    <component base="uni12DE" xOffset="70"/>
-  </outline>
-</glyph>

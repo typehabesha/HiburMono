@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni120F" format="2">
   <advance width="600"/>
   <unicode hex="120F"/>
@@ -11,10 +11,10 @@
       <point x="219" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="386" y="35.5" type="line"/>
+      <point x="386" y="36" type="line"/>
       <point x="289" y="714" type="line"/>
       <point x="376" y="714" type="line"/>
-      <point x="473" y="35.5" type="line"/>
+      <point x="473" y="36" type="line"/>
     </contour>
     <contour>
       <point x="339" y="539" type="line"/>

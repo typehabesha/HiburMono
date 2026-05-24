@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="2">
   <advance width="600"/>
   <unicode hex="0138"/>
@@ -28,11 +28,11 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.metricsLeft</key>
-      <string>k</string>
-      <key>com.fontlab.metricsRight</key>
-      <string>k</string>
-    </dict>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>k</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>k</string>
+  </dict>
   </lib>
 </glyph>

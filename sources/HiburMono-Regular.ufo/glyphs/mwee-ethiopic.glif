@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="mwee-ethiopic" format="2">
-  <advance width="945"/>
-  <unicode hex="1382"/>
-  <outline>
-    <component base="uni121C" xOffset="15"/>
-  </outline>
-</glyph>

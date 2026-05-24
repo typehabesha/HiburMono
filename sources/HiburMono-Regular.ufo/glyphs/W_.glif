@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="2">
   <advance width="600"/>
   <unicode hex="0057"/>
@@ -11,7 +11,7 @@
       <point x="119" y="596"/>
       <point x="127" y="517"/>
       <point x="134" y="438"/>
-      <point x="137.354" y="404.792" type="qcurve" smooth="yes"/>
+      <point x="137" y="405" type="qcurve" smooth="yes"/>
       <point x="141" y="368"/>
       <point x="147" y="298"/>
       <point x="152" y="227"/>
@@ -36,7 +36,7 @@
       <point x="452" y="218"/>
       <point x="456" y="288"/>
       <point x="462" y="363"/>
-      <point x="465.144" y="399.692" type="qcurve" smooth="yes"/>
+      <point x="465" y="400" type="qcurve" smooth="yes"/>
       <point x="468" y="433"/>
       <point x="473" y="496"/>
       <point x="479" y="558"/>

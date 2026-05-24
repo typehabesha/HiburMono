@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E7" format="2">
   <advance width="600"/>
   <unicode hex="01E7"/>
@@ -8,9 +8,9 @@
     <component base="caroncomb" xOffset="300"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.recipe</key>
-      <string>g+uni030C</string>
-    </dict>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>g+uni030C</string>
+  </dict>
   </lib>
 </glyph>

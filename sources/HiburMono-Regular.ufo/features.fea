@@ -1,8 +1,10 @@
-#> classes
+#/> classes
 #/> otclasses
 @latn_CombiningNonTopAccents = [cedillacomb ogonekcomb];
+@latn_CombiningTopAccents = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb];
+@ordn = [zero one two three four five six seven eight nine];
 #/< otclasses
-#< classes
+#/< classes
 
 #/> classes
 #/> otclasses
@@ -1254,13 +1256,25 @@ feature mark {
           <anchor 300 -220> mark @bottom
           <anchor 300 536> mark @top;
       pos base uni01FE
-          <anchor 240 966> mark @top;
+          <anchor 241 966> mark @top;
       pos base uni01FF
-          <anchor 240 766> mark @top;
+          <anchor 241 766> mark @top;
       pos base uni1EBC
           <anchor 300 935> mark @top;
       pos base uni1EBD
           <anchor 300 735> mark @top;
+      pos base uni01E6
+          <anchor 300 966> mark @top;
+      pos base uni01E7
+          <anchor 300 766> mark @top;
+      pos base uni01EE
+          <anchor 292 966> mark @top;
+      pos base uni021E
+          <anchor 300 966> mark @top;
+      pos base uni021F
+          <anchor 300 766> mark @top;
+      pos base uni01EF
+          <anchor 300 766> mark @top;
   } markLTR;
 
   lookup markLTR;
@@ -1284,7 +1298,7 @@ feature mkmk {
 #    markClass commaaccent <anchor 0 0> @bottom;
 #    markClass cedillacomb <anchor 0 0> @bottom;
 #    markClass ogonekcomb <anchor 0 0> @bottom;
-#    markClass uni02BB <anchor 355 536> @top;
+#    markClass uni02BB <anchor 433 536> @top;
 
   lookup mkmkLTR {
       pos mark uni135D

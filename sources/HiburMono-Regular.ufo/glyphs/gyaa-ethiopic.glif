@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="gyaa-ethiopic" format="2">
-  <advance width="571"/>
-  <unicode hex="2DDB"/>
-  <outline>
-    <component base="uni130B" xOffset="75"/>
-  </outline>
-</glyph>

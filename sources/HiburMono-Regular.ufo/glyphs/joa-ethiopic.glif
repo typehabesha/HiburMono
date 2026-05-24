@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="joa-ethiopic" format="2">
-  <advance width="770"/>
-  <unicode hex="2D8E"/>
-  <outline>
-    <component base="uni1306" xOffset="70"/>
-  </outline>
-</glyph>

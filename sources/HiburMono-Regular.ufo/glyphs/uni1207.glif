@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1207" format="2">
   <advance width="600"/>
   <unicode hex="1207"/>
@@ -54,6 +54,5 @@
       <point x="242" y="80"/>
       <point x="273" y="80" type="curve" smooth="yes"/>
     </contour>
-    <component base="uni1206" xOffset="40"/>
   </outline>
 </glyph>
