@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shoa-ethiopic" format="2">
+  <advance width="736"/>
+  <unicode hex="2D84"/>
+  <outline>
+    <component base="uni123E" xOffset="70"/>
+  </outline>
+</glyph>

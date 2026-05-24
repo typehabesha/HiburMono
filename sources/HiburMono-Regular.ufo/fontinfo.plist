@@ -1,69 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-  <key>ascender</key>
-  <integer>1069</integer>
-  <key>capHeight</key>
-  <integer>700</integer>
-  <key>copyright</key>
-  <string>Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono). Noto glyphs are Copyright 2015 Google LLC. All Rights Reserved.</string>
-  <key>descender</key>
-  <integer>-293</integer>
-  <key>familyName</key>
-  <string>Hibur Mono</string>
-  <key>guidelines</key>
-  <array>
   <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>m</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>616</integer>
-  </dict>
-  </array>
-  <key>italicAngle</key>
-  <integer>0</integer>
-  <key>openTypeGaspRangeRecords</key>
-  <array>
-  <dict>
-    <key>rangeGaspBehavior</key>
-      <array>
+    <key>ascender</key>
+    <integer>1069</integer>
+    <key>capHeight</key>
+    <integer>700</integer>
+    <key>copyright</key>
+    <string>Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono). Noto glyphs are Copyright 2015 Google LLC. All Rights Reserved.</string>
+    <key>descender</key>
+    <integer>-293</integer>
+    <key>familyName</key>
+    <string>Hibur Mono</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
         <integer>0</integer>
-        <integer>1</integer>
-        <integer>2</integer>
-        <integer>3</integer>
-      </array>
-    <key>rangeMaxPPEM</key>
-    <integer>65535</integer>
-  </dict>
-  </array>
-  <key>openTypeHeadCreated</key>
-  <string>2026/05/18 12:13:51</string>
-  <key>openTypeHeadFlags</key>
-  <array>
-  </array>
-  <key>openTypeHheaAscender</key>
-  <integer>1069</integer>
-  <key>openTypeHheaCaretOffset</key>
-  <integer>-0</integer>
-  <key>openTypeHheaDescender</key>
-  <integer>-293</integer>
-  <key>openTypeHheaLineGap</key>
-  <integer>-0</integer>
-  <key>openTypeNameDescription</key>
-  <string>Hibur Mono is a monospaced styled Ethiopic supporting font targetting application in terminals and programming tools. The non-Ethiopic glyphs come from the Regular master of Noto Sans Mono v2.6.</string>
-  <key>openTypeNameDesigner</key>
-  <string>Behailu Berento</string>
-  <key>openTypeNameDesignerURL</key>
-  <string>https://www.instagram.com/be.hailu</string>
-  <key>openTypeNameLicense</key>
-  <string>Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono).
+        <key>name</key>
+        <string>m</string>
+        <key>x</key>
+        <integer>0</integer>
+        <key>y</key>
+        <integer>616</integer>
+      </dict>
+    </array>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeGaspRangeRecords</key>
+    <array>
+      <dict>
+        <key>rangeGaspBehavior</key>
+        <array>
+          <integer>0</integer>
+          <integer>1</integer>
+          <integer>2</integer>
+          <integer>3</integer>
+        </array>
+        <key>rangeMaxPPEM</key>
+        <integer>65535</integer>
+      </dict>
+    </array>
+    <key>openTypeHeadCreated</key>
+    <string>2026/05/18 12:13:51</string>
+    <key>openTypeHeadFlags</key>
+    <array/>
+    <key>openTypeHheaAscender</key>
+    <integer>1069</integer>
+    <key>openTypeHheaCaretOffset</key>
+    <integer>0</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-293</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>Hibur Mono is a monospaced styled Ethiopic supporting font targetting application in terminals and programming tools. The non-Ethiopic glyphs come from the Regular master of Noto Sans Mono v2.6.</string>
+    <key>openTypeNameDesigner</key>
+    <string>Behailu Berento</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://www.instagram.com/be.hailu</string>
+    <key>openTypeNameLicense</key>
+    <string>Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono).
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. Refer to the he specific language, permissions and limitations governing your use of this Font Software in the license text copied below. See also the Open Font License FAQ at: https://openfontlicense.org/
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. Refer to the he specific language, permissions and limitations governing your use of this Font Software in the license text copied below. See also the Open Font License FAQ at: https://openfontlicense.org/
 
 
 -----------------------------------------------------------
@@ -76,15 +75,15 @@ The goals of the Open Font License (OFL) are to stimulate worldwide development 
 The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
 
 DEFINITIONS
-&quot;Font Software&quot; refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
 
-&quot;Reserved Font Name&quot; refers to any names specified as such after the copyright statement(s).
+"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
 
-&quot;Original Version&quot; refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
 
-&quot;Modified Version&quot; refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+"Modified Version" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
 
-&quot;Author&quot; refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
 
 PERMISSION &amp; CONDITIONS
 Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
@@ -103,131 +102,130 @@ TERMINATION
 This license becomes null and void if any of the above conditions are not met.
 
 DISCLAIMER
-THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.</string>
-  <key>openTypeNameLicenseURL</key>
-  <string>https://openfontlicense.org/</string>
-  <key>openTypeNameManufacturer</key>
-  <string>Raey Type</string>
-  <key>openTypeNameManufacturerURL</key>
-  <string>https://t.me/Type_Habesha</string>
-  <key>openTypeNamePreferredFamilyName</key>
-  <string>Hibur Mono</string>
-  <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Regular</string>
-  <key>openTypeNameVersion</key>
-  <string>Version 1.000-beta-1</string>
-  <key>openTypeOS2CodePageRanges</key>
-  <array>
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://openfontlicense.org/</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Raey Type</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://t.me/Type_Habesha</string>
+    <key>openTypeNamePreferredFamilyName</key>
+    <string>Hibur Mono</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Regular</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 1.000-beta-1</string>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>0</integer>
+      <integer>5</integer>
+      <integer>9</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>300</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>50</integer>
+    <key>openTypeOS2SubscriptXOffset</key>
     <integer>0</integer>
-  </array>
-  <key>openTypeOS2Panose</key>
-  <array>
-    <integer>2</integer>
-    <integer>0</integer>
-    <integer>5</integer>
-    <integer>9</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-  </array>
-  <key>openTypeOS2Selection</key>
-  <array>
-    <integer>7</integer>
-  </array>
-  <key>openTypeOS2StrikeoutPosition</key>
-  <integer>300</integer>
-  <key>openTypeOS2StrikeoutSize</key>
-  <integer>50</integer>
-  <key>openTypeOS2SubscriptXOffset</key>
-  <integer>-0</integer>
-  <key>openTypeOS2SubscriptXSize</key>
-  <integer>650</integer>
-  <key>openTypeOS2SubscriptYOffset</key>
-  <integer>75</integer>
-  <key>openTypeOS2SubscriptYSize</key>
-  <integer>600</integer>
-  <key>openTypeOS2SuperscriptXOffset</key>
-  <integer>-0</integer>
-  <key>openTypeOS2SuperscriptXSize</key>
-  <integer>650</integer>
-  <key>openTypeOS2SuperscriptYOffset</key>
-  <integer>350</integer>
-  <key>openTypeOS2SuperscriptYSize</key>
-  <integer>600</integer>
-  <key>openTypeOS2Type</key>
-  <array>
-  </array>
-  <key>openTypeOS2TypoAscender</key>
-  <integer>1069</integer>
-  <key>openTypeOS2TypoDescender</key>
-  <integer>-293</integer>
-  <key>openTypeOS2TypoLineGap</key>
-  <integer>-0</integer>
-  <key>openTypeOS2UnicodeRanges</key>
-  <array>
-    <integer>0</integer>
-    <integer>1</integer>
-    <integer>2</integer>
-    <integer>5</integer>
-    <integer>31</integer>
-    <integer>33</integer>
-    <integer>35</integer>
-    <integer>62</integer>
+    <key>openTypeOS2SubscriptXSize</key>
+    <integer>650</integer>
+    <key>openTypeOS2SubscriptYOffset</key>
     <integer>75</integer>
-  </array>
-  <key>openTypeOS2VendorID</key>
-  <string>TYHA</string>
-  <key>openTypeOS2WeightClass</key>
-  <integer>400</integer>
-  <key>openTypeOS2WidthClass</key>
-  <integer>5</integer>
-  <key>openTypeOS2WinAscent</key>
-  <integer>1229</integer>
-  <key>openTypeOS2WinDescent</key>
-  <integer>389</integer>
-  <key>postscriptBlueFuzz</key>
-  <integer>1</integer>
-  <key>postscriptBlueScale</key>
-  <real>0.039625</real>
-  <key>postscriptBlueShift</key>
-  <integer>7</integer>
-  <key>postscriptBlueValues</key>
-  <array>
-    <integer>-20</integer>
+    <key>openTypeOS2SubscriptYSize</key>
+    <integer>600</integer>
+    <key>openTypeOS2SuperscriptXOffset</key>
     <integer>0</integer>
-  </array>
-  <key>postscriptFontName</key>
-  <string>HiburMono-Regular</string>
-  <key>postscriptForceBold</key>
-  <false/>
-  <key>postscriptFullName</key>
-  <string>Hibur Mono Regular</string>
-  <key>postscriptIsFixedPitch</key>
-  <true/>
-  <key>postscriptUnderlinePosition</key>
-  <integer>-100</integer>
-  <key>postscriptUnderlineThickness</key>
-  <integer>50</integer>
-  <key>postscriptWeightName</key>
-  <string>Regular</string>
-  <key>styleMapFamilyName</key>
-  <string>Hibur Mono</string>
-  <key>styleMapStyleName</key>
-  <string>regular</string>
-  <key>styleName</key>
-  <string>Regular</string>
-  <key>trademark</key>
-  <string>Hibur Mono is a trademark of TypeHabesha.</string>
-  <key>unitsPerEm</key>
-  <integer>1000</integer>
-  <key>versionMajor</key>
-  <integer>1</integer>
-  <key>versionMinor</key>
-  <integer>0</integer>
-  <key>xHeight</key>
-  <integer>500</integer>
-</dict>
+    <key>openTypeOS2SuperscriptXSize</key>
+    <integer>650</integer>
+    <key>openTypeOS2SuperscriptYOffset</key>
+    <integer>350</integer>
+    <key>openTypeOS2SuperscriptYSize</key>
+    <integer>600</integer>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1069</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-293</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>5</integer>
+      <integer>31</integer>
+      <integer>33</integer>
+      <integer>35</integer>
+      <integer>62</integer>
+      <integer>75</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>TYHA</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1229</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>389</integer>
+    <key>postscriptBlueFuzz</key>
+    <integer>1</integer>
+    <key>postscriptBlueScale</key>
+    <real>0.039625</real>
+    <key>postscriptBlueShift</key>
+    <integer>7</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-20</integer>
+      <integer>0</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>HiburMono-Regular</string>
+    <key>postscriptForceBold</key>
+    <false/>
+    <key>postscriptFullName</key>
+    <string>Hibur Mono Regular</string>
+    <key>postscriptIsFixedPitch</key>
+    <true/>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>postscriptWeightName</key>
+    <string>Regular</string>
+    <key>styleMapFamilyName</key>
+    <string>Hibur Mono</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>trademark</key>
+    <string>Hibur Mono is a trademark of TypeHabesha.</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>500</integer>
+  </dict>
 </plist>

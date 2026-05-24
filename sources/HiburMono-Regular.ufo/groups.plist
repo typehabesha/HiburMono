@@ -1,38 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-  <key>latn_CombiningNonTopAccents</key>
-  <array>
-    <string>cedillacomb</string>
-    <string>ogonekcomb</string>
-  </array>
-  <key>latn_CombiningTopAccents</key>
-  <array>
-    <string>dieresiscomb</string>
-    <string>dotaccentcomb</string>
-    <string>gravecomb</string>
-    <string>acutecomb</string>
-    <string>hungarumlautcomb</string>
-    <string>circumflexcomb</string>
-    <string>caroncomb</string>
-    <string>brevecomb</string>
-    <string>ringcomb</string>
-    <string>tildecomb</string>
-    <string>macroncomb</string>
-  </array>
-  <key>ordn</key>
-  <array>
-    <string>zero</string>
-    <string>one</string>
-    <string>two</string>
-    <string>three</string>
-    <string>four</string>
-    <string>five</string>
-    <string>six</string>
-    <string>seven</string>
-    <string>eight</string>
-    <string>nine</string>
-  </array>
-</dict>
+  <dict>
+    <key>latn_CombiningNonTopAccents</key>
+    <array>
+      <string>cedillacomb</string>
+      <string>ogonekcomb</string>
+    </array>
+    <key>latn_CombiningTopAccents</key>
+    <array>
+      <string>dieresiscomb</string>
+      <string>dotaccentcomb</string>
+      <string>gravecomb</string>
+      <string>acutecomb</string>
+      <string>hungarumlautcomb</string>
+      <string>circumflexcomb</string>
+      <string>caroncomb</string>
+      <string>brevecomb</string>
+      <string>ringcomb</string>
+      <string>tildecomb</string>
+      <string>macroncomb</string>
+    </array>
+    <key>ordn</key>
+    <array>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+    </array>
+  </dict>
 </plist>

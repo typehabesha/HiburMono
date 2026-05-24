@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ijacute" format="2">
   <advance width="600"/>
   <outline>
-    <component base="acutecomb" xOffset="172"/>
-    <component base="acutecomb" xOffset="486"/>
     <contour>
       <point x="362" y="-221" type="curve" smooth="yes"/>
       <point x="302" y="-221"/>
@@ -36,5 +34,7 @@
       <point x="238.5" y="74" type="line"/>
       <point x="363" y="74" type="line"/>
     </contour>
+    <component base="acutecomb" xOffset="172"/>
+    <component base="acutecomb" xOffset="486"/>
   </outline>
 </glyph>

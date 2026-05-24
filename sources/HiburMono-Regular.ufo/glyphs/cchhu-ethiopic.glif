@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cchhu-ethiopic" format="2">
+  <advance width="1094"/>
+  <unicode hex="AB21"/>
+  <outline>
+    <component base="uni1329"/>
+  </outline>
+</glyph>

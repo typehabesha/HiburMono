@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddhaa-ethiopic" format="2">
+  <advance width="665"/>
+  <unicode hex="AB0B"/>
+  <outline>
+    <component base="uni12FB"/>
+  </outline>
+</glyph>

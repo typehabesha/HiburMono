@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddoa-ethiopic" format="2">
+  <advance width="755"/>
+  <unicode hex="2D8D"/>
+  <outline>
+    <component base="uni12FE" xOffset="70"/>
+  </outline>
+</glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="micro" format="2">
   <advance width="600"/>
   <unicode hex="00B5"/>
@@ -6,9 +6,9 @@
     <component base="uni03BC"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>uni03BC</string>
-  </dict>
+    <dict>
+      <key>com.fontlab.recipe</key>
+      <string>uni03BC</string>
+    </dict>
   </lib>
 </glyph>

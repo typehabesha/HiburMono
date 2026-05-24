@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bbaa-ethiopic" format="2">
+  <advance width="559"/>
+  <unicode hex="AB2B"/>
+  <outline>
+    <component base="uni133B"/>
+  </outline>
+</glyph>

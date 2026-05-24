@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzee-ethiopic" format="2">
+  <advance width="755"/>
+  <unicode hex="AB14"/>
+  <outline>
+    <component base="uni12DC"/>
+  </outline>
+</glyph>

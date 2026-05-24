@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mwi-ethiopic" format="2">
+  <advance width="1168"/>
+  <unicode hex="1381"/>
+  <outline>
+    <component base="uni121B" xOffset="51"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tthi-ethiopic" format="2">
+  <advance width="744"/>
+  <unicode hex="AB02"/>
+  <outline>
+    <component base="uni1232"/>
+  </outline>
+</glyph>

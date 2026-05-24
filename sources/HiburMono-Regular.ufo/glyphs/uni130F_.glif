@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni130F" format="2">
   <advance width="600"/>
   <unicode hex="130F"/>
@@ -40,5 +40,6 @@
       <point x="402" y="301"/>
       <point x="434" y="373"/>
     </contour>
+    <component base="uni130E" xOffset="74"/>
   </outline>
 </glyph>

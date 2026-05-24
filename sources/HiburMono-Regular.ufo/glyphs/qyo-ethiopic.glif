@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qyo-ethiopic" format="2">
+  <advance width="651"/>
+  <unicode hex="2DC6"/>
+  <outline>
+    <component base="uni1246" xOffset="70"/>
+  </outline>
+</glyph>
