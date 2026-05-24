@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniAB2B" format="2">
+  <advance width="600"/>
+  <unicode hex="AB2B"/>
+  <outline>
+    <component base="uni133B"/>
+    <contour>
+      <point x="34" y="852.348" type="line"/>
+      <point x="383" y="852.348" type="line"/>
+      <point x="383" y="775.348" type="line"/>
+      <point x="34" y="775.348" type="line"/>
+    </contour>
+  </outline>
+</glyph>
