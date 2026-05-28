@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1385" format="2">
-  <advance width="887"/>
+  <advance width="600"/>
   <unicode hex="1385"/>
+  <anchor x="237" y="800" name="top"/>
   <outline>
-    <component base="uni1260" xOffset="70"/>
+    <contour>
+      <point x="184.817" y="634" type="curve" smooth="yes"/>
+      <point x="165.646" y="634" type="line" smooth="yes"/>
+      <point x="134.646" y="634"/>
+      <point x="100.646" y="624"/>
+      <point x="100.646" y="586" type="curve" smooth="yes"/>
+      <point x="100.646" y="0" type="line"/>
+      <point x="10.6456" y="0" type="line"/>
+      <point x="10.6456" y="595" type="line" smooth="yes"/>
+      <point x="10.6456" y="677"/>
+      <point x="74.6456" y="714"/>
+      <point x="149.646" y="714" type="curve" smooth="yes"/>
+      <point x="200.817" y="714" type="line" smooth="yes"/>
+      <point x="275.817" y="714"/>
+      <point x="339.817" y="677"/>
+      <point x="339.817" y="595" type="curve" smooth="yes"/>
+      <point x="339.817" y="0" type="line"/>
+      <point x="249.817" y="0" type="line"/>
+      <point x="249.817" y="586" type="line" smooth="yes"/>
+      <point x="249.817" y="624"/>
+      <point x="215.817" y="634"/>
+    </contour>
+    <contour>
+      <point x="312.187" y="272" type="line"/>
+      <point x="312.187" y="349" type="line"/>
+      <point x="438.187" y="349" type="line"/>
+      <point x="438.187" y="272" type="line"/>
+    </contour>
+    <contour>
+      <point x="488.187" y="242" type="line"/>
+      <point x="411.187" y="242" type="line"/>
+      <point x="411.187" y="396" type="line"/>
+      <point x="488.187" y="396" type="line"/>
+    </contour>
+    <contour>
+      <point x="411.187" y="219" type="line"/>
+      <point x="411.187" y="296" type="line"/>
+      <point x="589.187" y="296" type="line"/>
+      <point x="589.187" y="219" type="line"/>
+    </contour>
   </outline>
 </glyph>

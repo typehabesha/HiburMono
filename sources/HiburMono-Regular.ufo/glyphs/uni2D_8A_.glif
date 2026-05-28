@@ -2,7 +2,47 @@
 <glyph name="uni2D8A" format="2">
   <advance width="600"/>
   <unicode hex="2D8A"/>
+  <anchor x="300" y="800" name="top"/>
   <outline>
-    <component base="uni12A6" xOffset="70"/>
+    <contour>
+      <point x="320.396" y="505" type="line"/>
+      <point x="249.396" y="0" type="line"/>
+      <point x="162.396" y="0" type="line"/>
+      <point x="233.396" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="241.396" y="425" type="line"/>
+      <point x="215.396" y="425" type="line" smooth="yes"/>
+      <point x="140.396" y="425"/>
+      <point x="76.3961" y="462"/>
+      <point x="76.3961" y="544" type="curve" smooth="yes"/>
+      <point x="76.3961" y="714" type="line"/>
+      <point x="166.396" y="714" type="line"/>
+      <point x="166.396" y="553" type="line" smooth="yes"/>
+      <point x="166.396" y="515"/>
+      <point x="200.396" y="505"/>
+      <point x="231.396" y="505" type="curve" smooth="yes"/>
+      <point x="241.396" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="263.396" y="338" type="line"/>
+      <point x="263.396" y="418" type="line"/>
+      <point x="397.396" y="418" type="line" smooth="yes"/>
+      <point x="472.396" y="418"/>
+      <point x="536.396" y="381"/>
+      <point x="536.396" y="299" type="curve" smooth="yes"/>
+      <point x="536.396" y="195" type="line"/>
+      <point x="446.396" y="195" type="line"/>
+      <point x="446.396" y="290" type="line" smooth="yes"/>
+      <point x="446.396" y="328"/>
+      <point x="412.396" y="338"/>
+      <point x="381.396" y="338" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="241.396" y="272" type="line"/>
+      <point x="64.3319" y="272" type="line"/>
+      <point x="64.3319" y="349" type="line"/>
+      <point x="241.396" y="349" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -2,13 +2,37 @@
 <glyph name="uniAB12" format="2">
   <advance width="600"/>
   <unicode hex="AB12"/>
+  <anchor x="237" y="800" name="top"/>
   <outline>
-    <component base="uni12DA"/>
     <contour>
-      <point x="54" y="852.348" type="line"/>
-      <point x="403" y="852.348" type="line"/>
-      <point x="403" y="775.348" type="line"/>
-      <point x="54" y="775.348" type="line"/>
+      <point x="78.1393" y="575.858" type="line"/>
+      <point x="168.139" y="575.858" type="line"/>
+      <point x="168.139" y="0" type="line"/>
+      <point x="78.1393" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="338.139" y="575.858" type="line"/>
+      <point x="428.139" y="575.858" type="line"/>
+      <point x="428.139" y="0" type="line"/>
+      <point x="338.139" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="121.139" y="309.169" type="line"/>
+      <point x="121.139" y="386.169" type="line"/>
+      <point x="382.139" y="386.169" type="line"/>
+      <point x="382.139" y="309.169" type="line"/>
+    </contour>
+    <contour>
+      <point x="567.139" y="0" type="line"/>
+      <point x="389.139" y="0" type="line"/>
+      <point x="389.139" y="77" type="line"/>
+      <point x="567.139" y="77" type="line"/>
+    </contour>
+    <contour>
+      <point x="78.9518" y="714" type="line"/>
+      <point x="427.952" y="714" type="line"/>
+      <point x="427.952" y="637" type="line"/>
+      <point x="78.9518" y="637" type="line"/>
     </contour>
   </outline>
 </glyph>

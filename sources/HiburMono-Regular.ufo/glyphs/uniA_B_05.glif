@@ -2,13 +2,41 @@
 <glyph name="uniAB05" format="2">
   <advance width="600"/>
   <unicode hex="AB05"/>
+  <anchor x="298" y="800" name="top"/>
   <outline>
-    <component base="uni1235"/>
     <contour>
-      <point x="106" y="241.221" type="line"/>
-      <point x="455" y="241.221" type="line"/>
-      <point x="455" y="164.221" type="line"/>
-      <point x="106" y="164.221" type="line"/>
+      <point x="255" y="495" type="line"/>
+      <point x="131" y="714" type="line"/>
+      <point x="234" y="714" type="line"/>
+      <point x="358" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="444" type="curve" smooth="yes"/>
+      <point x="225" y="444" type="line" smooth="yes"/>
+      <point x="194" y="444"/>
+      <point x="160" y="434"/>
+      <point x="160" y="396" type="curve" smooth="yes"/>
+      <point x="160" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="70" y="405" type="line" smooth="yes"/>
+      <point x="70" y="487"/>
+      <point x="134" y="524"/>
+      <point x="209" y="524" type="curve" smooth="yes"/>
+      <point x="391" y="524" type="line" smooth="yes"/>
+      <point x="466" y="524"/>
+      <point x="530" y="487"/>
+      <point x="530" y="405" type="curve" smooth="yes"/>
+      <point x="530" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="396" type="line" smooth="yes"/>
+      <point x="440" y="434"/>
+      <point x="406" y="444"/>
+    </contour>
+    <contour>
+      <point x="101.923" y="179.836" type="line"/>
+      <point x="101.923" y="256.836" type="line"/>
+      <point x="482.647" y="256.836" type="line"/>
+      <point x="482.647" y="179.836" type="line"/>
     </contour>
   </outline>
 </glyph>

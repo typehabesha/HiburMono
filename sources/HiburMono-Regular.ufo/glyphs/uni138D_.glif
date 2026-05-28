@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni138D" format="2">
-  <advance width="727"/>
+  <advance width="600"/>
   <unicode hex="138D"/>
+  <anchor x="300" y="800" name="top"/>
   <outline>
-    <component base="uni1350" xOffset="70"/>
+    <contour>
+      <point x="214.922" y="679" type="line"/>
+      <point x="304.922" y="679" type="line"/>
+      <point x="304.922" y="0" type="line"/>
+      <point x="214.922" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="29.9221" y="637" type="line"/>
+      <point x="29.9221" y="714" type="line"/>
+      <point x="489.922" y="714" type="line"/>
+      <point x="489.922" y="637" type="line"/>
+    </contour>
+    <contour>
+      <point x="258.065" y="272.181" type="line"/>
+      <point x="258.065" y="349.181" type="line"/>
+      <point x="418.293" y="349" type="line"/>
+      <point x="418.293" y="272" type="line"/>
+    </contour>
+    <contour>
+      <point x="468.293" y="242" type="line"/>
+      <point x="391.293" y="242" type="line"/>
+      <point x="391.293" y="396" type="line"/>
+      <point x="468.293" y="396" type="line"/>
+    </contour>
+    <contour>
+      <point x="391.293" y="219" type="line"/>
+      <point x="391.293" y="296" type="line"/>
+      <point x="569.293" y="296" type="line"/>
+      <point x="569.293" y="219" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -2,7 +2,31 @@
 <glyph name="uni2D8B" format="2">
   <advance width="600"/>
   <unicode hex="2D8B"/>
+  <anchor x="300" y="800" name="top"/>
   <outline>
-    <component base="uni12DE" xOffset="70"/>
+    <contour>
+      <point x="544" y="714" type="line"/>
+      <point x="544" y="265" type="line"/>
+      <point x="454" y="265" type="line"/>
+      <point x="454" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="714" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="194" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="360" type="line"/>
+      <point x="240" y="360" type="line"/>
+      <point x="240" y="437" type="line"/>
+      <point x="501" y="437" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="272" type="line"/>
+      <point x="55" y="272" type="line"/>
+      <point x="55" y="349" type="line"/>
+      <point x="233" y="349" type="line"/>
+    </contour>
   </outline>
 </glyph>
