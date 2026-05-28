@@ -334,20 +334,6 @@
   <string>ccaron.glif</string>
   <key>ccedilla</key>
   <string>ccedilla.glif</string>
-  <key>ccha-ethiopic</key>
-  <string>ccha-ethiopic.glif</string>
-  <key>cchaa-ethiopic</key>
-  <string>cchaa-ethiopic.glif</string>
-  <key>cche-ethiopic</key>
-  <string>cche-ethiopic.glif</string>
-  <key>cchee-ethiopic</key>
-  <string>cchee-ethiopic.glif</string>
-  <key>cchi-ethiopic</key>
-  <string>cchi-ethiopic.glif</string>
-  <key>ccho-ethiopic</key>
-  <string>ccho-ethiopic.glif</string>
-  <key>cchu-ethiopic</key>
-  <string>cchu-ethiopic.glif</string>
   <key>ccircumflex</key>
   <string>ccircumflex.glif</string>
   <key>cdotaccent</key>
@@ -1760,6 +1746,20 @@
   <string>uni2D_B_5.glif</string>
   <key>uni2DB6</key>
   <string>uni2D_B_6.glif</string>
+  <key>uni2DB8</key>
+  <string>uni2D_B_8.glif</string>
+  <key>uni2DB9</key>
+  <string>uni2D_B_9.glif</string>
+  <key>uni2DBA</key>
+  <string>uni2D_B_A_.glif</string>
+  <key>uni2DBB</key>
+  <string>uni2D_B_B_.glif</string>
+  <key>uni2DBC</key>
+  <string>uni2D_B_C_.glif</string>
+  <key>uni2DBD</key>
+  <string>uni2D_B_D_.glif</string>
+  <key>uni2DBE</key>
+  <string>uni2D_B_E_.glif</string>
   <key>uni2DC0</key>
   <string>uni2D_C_0.glif</string>
   <key>uni2DC1</key>

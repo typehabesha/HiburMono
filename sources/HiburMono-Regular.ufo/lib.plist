@@ -1012,13 +1012,13 @@
     <string>caroncommaaccent</string>
     <string>ijacute</string>
     <string>iogonekdotless</string>
-    <string>ccha-ethiopic</string>
-    <string>cchu-ethiopic</string>
-    <string>cchi-ethiopic</string>
-    <string>cchaa-ethiopic</string>
-    <string>cchee-ethiopic</string>
-    <string>cche-ethiopic</string>
-    <string>ccho-ethiopic</string>
+    <string>uni2DB8</string>
+    <string>uni2DB9</string>
+    <string>uni2DBA</string>
+    <string>uni2DBB</string>
+    <string>uni2DBC</string>
+    <string>uni2DBD</string>
+    <string>uni2DBE</string>
   </array>
   <key>public.skipExportGlyphs</key>
   <array>
