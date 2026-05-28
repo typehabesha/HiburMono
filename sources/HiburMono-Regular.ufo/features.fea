@@ -131,7 +131,6 @@ feature mark {
     markClass commaaccent <anchor 0 0> @bottom;
     markClass cedillacomb <anchor 0 0> @bottom;
     markClass ogonekcomb <anchor 0 0> @bottom;
-    markClass uni02BB <anchor 433 536> @top;
 
   lookup markLTR {
       pos base J
@@ -1299,7 +1298,6 @@ feature mkmk {
 #    markClass commaaccent <anchor 0 0> @bottom;
 #    markClass cedillacomb <anchor 0 0> @bottom;
 #    markClass ogonekcomb <anchor 0 0> @bottom;
-#    markClass uni02BB <anchor 433 536> @top;
 
   lookup mkmkLTR {
       pos mark uni135D
