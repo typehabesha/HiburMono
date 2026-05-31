@@ -8,6 +8,7 @@
 # directory.
 sources:
   - HiburMono-Regular.ufo
+#  - HiburMono-Regular.glyphspackage
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Hibur Mono"
@@ -32,9 +33,10 @@ buildOTF: true
 # buildSmallCap: false
 
 # The next flags control autohinting.
-# autohintTTF: true
-# autohintOTF: false
-# ttfaUseScript: false  # Set this to true if your font is not Latin
+autohintTTF: true
+autohintOTF: true
+ttfaUseScript: true
+cleanUp: true  # Set this to true if your font is not Latin
 
 # The "fix" operation can optionally fix some problems which
 # are better dealt with in the font sources. Set this to true if you

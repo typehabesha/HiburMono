@@ -7,10 +7,10 @@ fonts {
   name: "Hibur Mono"
   style: "normal"
   weight: 400
-  filename: "HiburMono[wght].ttf"
+  filename: "HiburMono-Regular.ttf"
   post_script_name: "HiburMono-Regular"
   full_name: "Hibur Mono Regular"
-  copyright: "Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono)"
+  copyright: "Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono). Noto glyphs are Copyright 2015 Google LLC. All Rights Reserved."
 }
 subsets: "adlam"
 subsets: "cherokee"
