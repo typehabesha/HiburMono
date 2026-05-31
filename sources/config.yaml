@@ -34,7 +34,7 @@ buildOTF: true
 
 # The next flags control autohinting.
 autohintTTF: true
-autohintOTF: true
+autohintOTF: false
 ttfaUseScript: true
 cleanUp: true  # Set this to true if your font is not Latin
 
