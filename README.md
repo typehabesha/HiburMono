@@ -1,6 +1,6 @@
 # Hibur Mono (ኅቡር ሞኖ)
 
-Hibur Mono is a a monospaced styled font for the Ge'ez (Ethiopic) script. 
+Hibur Mono is a monospaced styled font for the Ge'ez (Ethiopic) script. 
 Latin letters of Hibur Mono have been borrowed from the Noto Sans Mono font.
 Many of the Hibur Mono geometric properties are also conforming to the
 Noto Sans Mono design.
@@ -30,3 +30,11 @@ Revisions to the font are (or will be) tracked in the [CHANGELOG.md](CHANGELOG.m
 
 This Font Software is licensed under the SIL (Open Font License)[OFL.txt], Version 1.1.
 This license is available with a FAQ at [https://openfontlicense.org](https://openfontlicense.org)
+
+
+## Samples
+
+<img src="documentation/articles/image1.png" width="750"/><img src="documentation/articles/image2.png" width="750"/><br/>
+<img src="documentation/articles/image3.png" width="750"/><img src="documentation/articles/image4.png" width="750"/><br/>
+<img src="documentation/articles/image5.png" width="750"/><img src="documentation/articles/image6.png" width="750"/><br/>
+<img src="documentation/articles/image7.png" width="750"/><img src="documentation/articles/image8.png" width="750"/>
