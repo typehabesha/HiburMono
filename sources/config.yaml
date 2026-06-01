@@ -7,7 +7,11 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - HiburMono-Regular.ufo
+   - HiburMono-Regular.ufo
+#
+# Trying other formats leads to "No final targets" errors.  Investigate.
+#
+#  - HiburMono-Regular.glyphs
 #  - HiburMono-Regular.glyphspackage
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
@@ -34,7 +38,7 @@ buildOTF: true
 
 # The next flags control autohinting.
 autohintTTF: true
-autohintOTF: false
+autohintOTF: false # "true" works locally, but fails on github.
 ttfaUseScript: true
 cleanUp: true  # Set this to true if your font is not Latin
 
