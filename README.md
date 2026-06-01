@@ -34,7 +34,7 @@ This license is available with a FAQ at [https://openfontlicense.org](https://op
 
 ## Samples
 
-<img src="documentation/articles/image1.png" width="750"/><img src="documentation/articles/image2.png" width="750"/><br/>
-<img src="documentation/articles/image3.png" width="750"/><img src="documentation/articles/image4.png" width="750"/><br/>
-<img src="documentation/articles/image5.png" width="750"/><img src="documentation/articles/image6.png" width="750"/><br/>
-<img src="documentation/articles/image7.png" width="750"/><img src="documentation/articles/image8.png" width="750"/>
+<img src="documentation/image1.png" width="750"/><img src="documentation/image2.png" width="750"/><br/>
+<img src="documentation/image3.png" width="750"/><img src="documentation/image4.png" width="750"/><br/>
+<img src="documentation/image5.png" width="750"/><img src="documentation/image6.png" width="750"/><br/>
+<img src="documentation/image7.png" width="750"/><img src="documentation/image8.png" width="750"/>
