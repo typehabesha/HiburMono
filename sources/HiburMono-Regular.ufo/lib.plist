@@ -1019,10 +1019,12 @@
     <string>uni2DBC</string>
     <string>uni2DBD</string>
     <string>uni2DBE</string>
+    <string>commaaccentrotate</string>
   </array>
   <key>public.skipExportGlyphs</key>
   <array>
     <string>caroncommaaccent</string>
+    <string>commaaccentrotate</string>
   </array>
 </dict>
 </plist>

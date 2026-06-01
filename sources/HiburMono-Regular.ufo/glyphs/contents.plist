@@ -354,6 +354,8 @@
   <string>comma.glif</string>
   <key>commaaccent</key>
   <string>commaaccent.glif</string>
+  <key>commaaccentrotate</key>
+  <string>commaaccentrotate.glif</string>
   <key>copyright</key>
   <string>copyright.glif</string>
   <key>currency</key>
