@@ -8,9 +8,9 @@
     <component base="T"/>
     <contour>
       <point x="494" y="325" type="line"/>
-      <point x="494" y="399" type="line"/>
-      <point x="107" y="399" type="line"/>
       <point x="107" y="325" type="line"/>
+      <point x="107" y="399" type="line"/>
+      <point x="494" y="399" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -2,7 +2,6 @@
 <glyph name="uni20B9" format="2">
   <advance width="600"/>
   <unicode hex="20B9"/>
-  <note>0</note>
   <outline>
     <contour>
       <point x="400" y="0" type="line"/>
