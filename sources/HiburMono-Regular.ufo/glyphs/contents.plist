@@ -1760,6 +1760,8 @@
   <string>uni2D_B_C_.glif</string>
   <key>uni2DBD</key>
   <string>uni2D_B_D_.glif</string>
+  <key>uni2DBE</key>
+  <string>uni2D_B_E_.glif</string>
   <key>uni2DC0</key>
   <string>uni2D_C_0.glif</string>
   <key>uni2DC1</key>
@@ -1816,8 +1818,6 @@
   <string>uni2D_D_D_.glif</string>
   <key>uni2DDE</key>
   <string>uni2D_D_E_.glif</string>
-  <key>uni2DE</key>
-  <string>uni2D_E_.glif</string>
   <key>uniAB01</key>
   <string>uniA_B_01.glif</string>
   <key>uniAB02</key>

@@ -2,6 +2,7 @@
 <glyph name="uni1218" format="2">
   <advance width="600"/>
   <unicode hex="1218"/>
+  <anchor x="303" y="765" name="top"/>
   <outline>
     <contour>
       <point x="187" y="180" type="line"/>
@@ -50,4 +51,5 @@
       <point x="333" y="180" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="-141" y="0"/>
 </glyph>
