@@ -2,23 +2,13 @@
 <glyph name="uni12FA" format="2">
   <advance width="600"/>
   <unicode hex="12FA"/>
-  <anchor x="302" y="800" name="top"/>
+  <anchor x="235" y="804" name="top"/>
   <outline>
     <contour>
       <point x="415" y="0" type="line"/>
       <point x="415" y="77" type="line"/>
       <point x="595" y="77" type="line"/>
       <point x="595" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="171" y="202" type="curve"/>
-      <point x="82" y="202" type="line"/>
-      <point x="73" y="281"/>
-      <point x="58" y="360"/>
-      <point x="41" y="438" type="curve"/>
-      <point x="130" y="438" type="line"/>
-      <point x="147" y="360"/>
-      <point x="162" y="281"/>
     </contour>
     <contour>
       <point x="310" y="194" type="curve" smooth="yes"/>
@@ -83,6 +73,16 @@
       <point x="190" y="773" type="line"/>
       <point x="280" y="773" type="line"/>
       <point x="280" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="410" type="curve"/>
+      <point x="132" y="410" type="line"/>
+      <point x="146" y="341"/>
+      <point x="159" y="272"/>
+      <point x="167" y="202" type="curve"/>
+      <point x="78" y="202" type="line"/>
+      <point x="70" y="272"/>
+      <point x="57" y="341"/>
     </contour>
   </outline>
 </glyph>

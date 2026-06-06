@@ -2,7 +2,7 @@
 <glyph name="uni129E" format="2">
   <advance width="600"/>
   <unicode hex="129E"/>
-  <anchor x="376" y="800" name="top"/>
+  <anchor x="300" y="804" name="top"/>
   <outline>
     <contour>
       <point x="403" y="541" type="line"/>
@@ -25,10 +25,10 @@
       <point x="232" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="255" y="680" type="line"/>
-      <point x="345" y="680" type="line"/>
       <point x="345" y="535" type="line"/>
       <point x="255" y="535" type="line"/>
+      <point x="255" y="680" type="line"/>
+      <point x="345" y="680" type="line"/>
     </contour>
     <contour>
       <point x="70" y="637" type="line"/>

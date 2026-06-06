@@ -2,6 +2,7 @@
 <glyph name="uniAB26" format="2">
   <advance width="600"/>
   <unicode hex="AB26"/>
+  <anchor x="255" y="804" name="top"/>
   <outline>
     <contour>
       <point x="190" y="119" type="qcurve" smooth="yes"/>

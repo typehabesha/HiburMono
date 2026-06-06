@@ -2,7 +2,7 @@
 <glyph name="u1E7F0" format="2">
   <advance width="600"/>
   <unicode hex="1E7F0"/>
-  <anchor x="300" y="800" name="top"/>
+  <anchor x="272" y="804" name="top"/>
   <outline>
     <contour>
       <point x="502.401" y="444.459" type="line" smooth="yes"/>
@@ -41,10 +41,10 @@
       <point x="412.401" y="415.459"/>
     </contour>
     <contour>
-      <point x="227.401" y="714" type="line"/>
-      <point x="317.401" y="714" type="line"/>
       <point x="317.401" y="0" type="line"/>
       <point x="227.401" y="0" type="line"/>
+      <point x="227.401" y="714" type="line"/>
+      <point x="317.401" y="714" type="line"/>
     </contour>
     <contour>
       <point x="278.401" y="0" type="line"/>

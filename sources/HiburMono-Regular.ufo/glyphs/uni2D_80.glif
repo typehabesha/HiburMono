@@ -2,13 +2,13 @@
 <glyph name="uni2D80" format="2">
   <advance width="600"/>
   <unicode hex="2D80"/>
-  <anchor x="251" y="800" name="top"/>
+  <anchor x="280" y="804" name="top"/>
   <outline>
     <contour>
-      <point x="341.887" y="714" type="line"/>
       <point x="443.887" y="0" type="line"/>
       <point x="356.887" y="0" type="line"/>
       <point x="254.887" y="714" type="line"/>
+      <point x="341.887" y="714" type="line"/>
     </contour>
     <contour>
       <point x="331.794" y="539" type="line"/>

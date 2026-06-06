@@ -2,7 +2,7 @@
 <glyph name="uni12FC" format="2">
   <advance width="600"/>
   <unicode hex="12FC"/>
-  <anchor x="302" y="800" name="top"/>
+  <anchor x="235" y="804" name="top"/>
   <outline>
     <contour>
       <point x="447" y="220" type="curve"/>

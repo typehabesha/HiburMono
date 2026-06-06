@@ -2,7 +2,7 @@
 <glyph name="uni2DAD" format="2">
   <advance width="600"/>
   <unicode hex="2DAD"/>
-  <anchor x="207" y="800" name="top"/>
+  <anchor x="207" y="804" name="top"/>
   <outline>
     <contour>
       <point x="95" y="318" type="line"/>

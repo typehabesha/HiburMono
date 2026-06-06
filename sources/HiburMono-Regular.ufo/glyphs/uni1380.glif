@@ -2,7 +2,7 @@
 <glyph name="uni1380" format="2">
   <advance width="600"/>
   <unicode hex="1380"/>
-  <anchor x="250" y="750" name="top"/>
+  <anchor x="250" y="769" name="top"/>
   <outline>
     <contour>
       <point x="149" y="180" type="line"/>
@@ -29,6 +29,8 @@
       <point x="355" y="608" type="line"/>
     </contour>
     <contour>
+      <point x="362" y="180" type="qcurve" smooth="yes"/>
+      <point x="275" y="180" type="line"/>
       <point x="275" y="608" type="line"/>
       <point x="229" y="608" type="line"/>
       <point x="229" y="109" type="line"/>
@@ -47,8 +49,6 @@
       <point x="501" y="299" type="line" smooth="yes"/>
       <point x="501" y="238"/>
       <point x="419" y="180"/>
-      <point x="362" y="180" type="qcurve" smooth="yes"/>
-      <point x="275" y="180" type="line"/>
     </contour>
     <contour>
       <point x="597" y="425" type="qcurve" smooth="yes"/>

@@ -2,19 +2,19 @@
 <glyph name="uniAB16" format="2">
   <advance width="600"/>
   <unicode hex="AB16"/>
-  <anchor x="237" y="800" name="top"/>
+  <anchor x="293" y="804" name="top"/>
   <outline>
     <contour>
-      <point x="467.812" y="575.858" type="line"/>
       <point x="467.812" y="226.015" type="line"/>
       <point x="377.812" y="226.015" type="line"/>
       <point x="377.812" y="575.858" type="line"/>
+      <point x="467.812" y="575.858" type="line"/>
     </contour>
     <contour>
-      <point x="207.812" y="575.858" type="line"/>
       <point x="207.812" y="0" type="line"/>
       <point x="117.812" y="0" type="line"/>
       <point x="117.812" y="575.858" type="line"/>
+      <point x="207.812" y="575.858" type="line"/>
     </contour>
     <contour>
       <point x="424.812" y="309.169" type="line"/>
@@ -23,10 +23,10 @@
       <point x="424.812" y="386.169" type="line"/>
     </contour>
     <contour>
-      <point x="117.812" y="714" type="line"/>
-      <point x="466.812" y="714" type="line"/>
-      <point x="466.812" y="637" type="line"/>
+      <point x="467.812" y="637" type="line"/>
       <point x="117.812" y="637" type="line"/>
+      <point x="117.812" y="714" type="line"/>
+      <point x="467.812" y="714" type="line"/>
     </contour>
   </outline>
 </glyph>

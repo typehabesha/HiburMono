@@ -2,7 +2,7 @@
 <glyph name="uniAB13" format="2">
   <advance width="600"/>
   <unicode hex="AB13"/>
-  <anchor x="237" y="800" name="top"/>
+  <anchor x="300" y="804" name="top"/>
   <outline>
     <contour>
       <point x="117.812" y="575.858" type="line"/>
@@ -23,10 +23,10 @@
       <point x="421.812" y="309.169" type="line"/>
     </contour>
     <contour>
-      <point x="118.675" y="714" type="line"/>
+      <point x="117.675" y="714" type="line"/>
       <point x="467.675" y="714" type="line"/>
       <point x="467.675" y="637" type="line"/>
-      <point x="118.675" y="637" type="line"/>
+      <point x="117.675" y="637" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,7 +2,7 @@
 <glyph name="uni129F" format="2">
   <advance width="600"/>
   <unicode hex="129F"/>
-  <anchor x="376" y="800" name="top"/>
+  <anchor x="300" y="804" name="top"/>
   <outline>
     <contour>
       <point x="84.9846" y="77" type="line"/>
@@ -25,10 +25,10 @@
       <point x="218.985" y="541" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="254.985" y="680" type="line"/>
-      <point x="344.985" y="680" type="line"/>
       <point x="344.985" y="510" type="line"/>
       <point x="254.985" y="510" type="line"/>
+      <point x="254.985" y="680" type="line"/>
+      <point x="344.985" y="680" type="line"/>
     </contour>
     <contour>
       <point x="69.9846" y="637" type="line"/>

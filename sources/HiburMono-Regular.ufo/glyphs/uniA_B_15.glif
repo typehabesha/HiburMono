@@ -2,7 +2,7 @@
 <glyph name="uniAB15" format="2">
   <advance width="600"/>
   <unicode hex="AB15"/>
-  <anchor x="366" y="800" name="top"/>
+  <anchor x="345" y="804" name="top"/>
   <outline>
     <contour>
       <point x="259.844" y="456.858" type="curve" smooth="yes"/>
@@ -31,10 +31,10 @@
       <point x="476.844" y="386.169" type="line"/>
     </contour>
     <contour>
-      <point x="170.844" y="714" type="line"/>
+      <point x="169.844" y="714" type="line"/>
       <point x="519.844" y="714" type="line"/>
       <point x="519.844" y="637" type="line"/>
-      <point x="170.844" y="637" type="line"/>
+      <point x="169.844" y="637" type="line"/>
     </contour>
   </outline>
 </glyph>
