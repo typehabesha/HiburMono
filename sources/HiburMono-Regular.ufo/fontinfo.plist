@@ -42,7 +42,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2026/05/18 12:13:51</string>
+  <string>2026/06/07 19:49:30</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -115,7 +115,7 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.000-beta-1</string>
+  <string>Version 1.000</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
