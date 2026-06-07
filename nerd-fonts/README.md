@@ -3,7 +3,7 @@
 Patches for the Hibur Mono glyphs into popular monospaced coding fonts are
 provided in this directory for convenience.  The Hibur Mono Ethiopic glyphs are
 patched into the Regular typeface versions of the respective fonts -which in turn
-have *alredy* been patched for the Nerd Fonts glyphs 
+have *already* been patched for the Nerd Fonts glyphs 
 (see the Nerd Fonts [patched-fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts) folder).
 
 Presently provided patched fonts are:
