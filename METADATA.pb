@@ -25,7 +25,7 @@ subsets: "tifinagh"
 subsets: "yi"
 soruce {
   repository_url: "https://github.com/typehabesha/HiburMono"
-  commit: "62012e80578aff6fb8c41d052eb745a85b1685f3"
+  commit: "608028e0ab528359f846f969e25c000d667d3be8"
 }
 primary_script: "Ethi"
 minisite_url: "https://github.com/typehabesha/HiburMono"
