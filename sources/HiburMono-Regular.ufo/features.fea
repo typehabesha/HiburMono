@@ -1485,19 +1485,19 @@ feature mark {
       pos base uniAB26
           <anchor 255 804> mark @top;
       pos base uniAB28
-          <anchor 300 800> mark @top;
+          <anchor 224 804> mark @top;
       pos base uniAB29
-          <anchor 300 800> mark @top;
+          <anchor 191 804> mark @top;
       pos base uniAB2A
-          <anchor 300 800> mark @top;
+          <anchor 188 804> mark @top;
       pos base uniAB2B
-          <anchor 300 800> mark @top;
+          <anchor 224 804> mark @top;
       pos base uniAB2C
-          <anchor 300 800> mark @top;
+          <anchor 181 803> mark @top;
       pos base uniAB2D
-          <anchor 300 800> mark @top;
+          <anchor 224 804> mark @top;
       pos base uniAB2E
-          <anchor 300 800> mark @top;
+          <anchor 224 804> mark @top;
       pos base u1E7E0
           <anchor 300 804> mark @top;
       pos base u1E7E1
