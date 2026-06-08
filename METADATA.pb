@@ -23,10 +23,23 @@ subsets: "math"
 subsets: "menu"
 subsets: "tifinagh"
 subsets: "yi"
-soruce {
-  repository_url: "https://github.com/typehabesha/HiburMono"
+source {
+  repository_url: "https://github.com/typehabesha/HiburMono/"
   commit: "608028e0ab528359f846f969e25c000d667d3be8"
+  files {
+    source_file: "fonts/ttf/HiburMono-Regular.ttf"
+    dest_file: "HiburMono-Regular.ttf"
+  }
+  files {
+    source_file: "OFL.txt"
+    dest_file: "OFL.txt"
+  }
+  files {
+    source_file: "documentation/DESCRIPTION.en_us.html"
+    dest_file: "DESCRIPTION.en_us.html"
+  }
+  branch: "main"
 }
-primary_script: "Ethi"
 minisite_url: "https://github.com/typehabesha/HiburMono"
+primary_script: "Ethi"
 stroke: "SANS SERIF"
