@@ -2,6 +2,7 @@
 <glyph name="J" format="2">
   <advance width="600"/>
   <unicode hex="004A"/>
+  <anchor x="420" y="770" name="top"/>
   <outline>
     <contour>
       <point x="252" y="-10" type="qcurve" smooth="yes"/>
