@@ -1,8 +1,8 @@
 name: "Hibur Mono"
-designer: "Behailu Berento"
+designer: "TypeHabesha, Behailu Berento"
 license: "OFL"
 category: "MONOSPACE"
-date_added: "2026-03-08"
+date_added: "2026-06-10"
 fonts {
   name: "Hibur Mono"
   style: "normal"
@@ -10,36 +10,30 @@ fonts {
   filename: "HiburMono-Regular.ttf"
   post_script_name: "HiburMono-Regular"
   full_name: "Hibur Mono Regular"
-  copyright: "Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono). Noto glyphs are Copyright 2015 Google LLC. All Rights Reserved."
+  copyright: "Copyright 2025-2026 The Hibur Mono Font Project Authors (https://github.com/typehabesha/HiburMono)."
 }
-subsets: "adlam"
-subsets: "cherokee"
 subsets: "ethiopic"
-subsets: "greek"
-subsets: "greek-ext"
 subsets: "latin"
 subsets: "latin-ext"
-subsets: "math"
 subsets: "menu"
-subsets: "tifinagh"
-subsets: "yi"
+languages: "ale_Latn"  # Aleut
+languages: "yap_Latn"  # Yapese
+languages: "guu_Latn"  # Yanomamö
+languages: "yua_Latn"  # Yucateco
 source {
-  repository_url: "https://github.com/typehabesha/HiburMono/"
-  commit: "608028e0ab528359f846f969e25c000d667d3be8"
-  files {
-    source_file: "fonts/ttf/HiburMono-Regular.ttf"
-    dest_file: "HiburMono-Regular.ttf"
-  }
+  repository_url: "https://github.com/typehabesha/HiburMono"
+  commit: "ea9fe744a13815eb4efeb297c072ce61b4c335df"
+  archive_url: "https://github.com/typehabesha/HiburMono/releases/download/v1.0.0/HiburMono-v1.0.0.zip"
   files {
     source_file: "OFL.txt"
     dest_file: "OFL.txt"
   }
   files {
-    source_file: "documentation/DESCRIPTION.en_us.html"
-    dest_file: "DESCRIPTION.en_us.html"
+    source_file: "fonts/ttf/HiburMono-Regular.ttf"
+    dest_file: "HiburMono-Regular.ttf"
   }
   branch: "main"
 }
-minisite_url: "https://github.com/typehabesha/HiburMono"
 primary_script: "Ethi"
-stroke: "SANS SERIF"
+stroke: "SANS_SERIF"
+classifications: "MONOSPACE"
