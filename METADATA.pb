@@ -16,13 +16,9 @@ subsets: "ethiopic"
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
-languages: "ale_Latn"  # Aleut
-languages: "yap_Latn"  # Yapese
-languages: "guu_Latn"  # Yanomamö
-languages: "yua_Latn"  # Yucateco
 source {
   repository_url: "https://github.com/typehabesha/HiburMono"
-  commit: "ea9fe744a13815eb4efeb297c072ce61b4c335df"
+  commit: "d895f708a4ae0a819e05df8f1eaf79c8d444a2bd"
   archive_url: "https://github.com/typehabesha/HiburMono/releases/download/v1.0.0/HiburMono-v1.0.0.zip"
   files {
     source_file: "OFL.txt"
