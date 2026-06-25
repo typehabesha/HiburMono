@@ -34,7 +34,7 @@ This license is available with a FAQ at [https://openfontlicense.org](https://op
 
 ## Samples
 
-<img src="documentation/Hibur-Mono-Preview-1.png" width="750"/><img src="documentation/Hibur-Mono-Preview-2.png" width="750"/><br/>
-<img src="documentation/Hibur-Mono-Preview-3.png" width="750"/><img src="documentation/Hibur-Mono-Preview-4.png" width="750"/><br/>
-<img src="documentation/Hibur-Mono-Preview-5.png" width="750"/><img src="documentation/Hibur-Mono-Preview-6.png" width="750"/><br/>
-<img src="documentation/Hibur-Mono-Preview-7.png" width="750"/><img src="documentation/Hibur-Mono-Preview-8.png" width="750"/>
+<img src="documentation/article/Hibur-Mono-Preview-1.png" width="750"/><img src="documentation/article/Hibur-Mono-Preview-2.png" width="750"/><br/>
+<img src="documentation/article/Hibur-Mono-Preview-3.png" width="750"/><img src="documentation/article/Hibur-Mono-Preview-4.png" width="750"/><br/>
+<img src="documentation/article/Hibur-Mono-Preview-5.png" width="750"/><img src="documentation/article/Hibur-Mono-Preview-6.png" width="750"/><br/>
+<img src="documentation/article/Hibur-Mono-Preview-7.png" width="750"/><img src="documentation/article/Hibur-Mono-Preview-8.png" width="750"/>
